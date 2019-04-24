@@ -1,0 +1,2056 @@
+"order";"family";"feature";"data_set";"tolerance"
+1;"Diagnostics-initial image";"Image dimension x";"case_1";0
+1;"Diagnostics-initial image";"Image dimension x";"case_2";0
+1;"Diagnostics-initial image";"Image dimension x";"case_3";0
+1;"Diagnostics-initial image";"Image dimension x";"case_4";0
+1;"Diagnostics-initial image";"Image dimension x";"case_5";0
+2;"Diagnostics-initial image";"Image dimension y";"case_1";0
+2;"Diagnostics-initial image";"Image dimension y";"case_2";0
+2;"Diagnostics-initial image";"Image dimension y";"case_3";0
+2;"Diagnostics-initial image";"Image dimension y";"case_4";0
+2;"Diagnostics-initial image";"Image dimension y";"case_5";0
+3;"Diagnostics-initial image";"Image dimension z";"case_1";0
+3;"Diagnostics-initial image";"Image dimension z";"case_2";0
+3;"Diagnostics-initial image";"Image dimension z";"case_3";0
+3;"Diagnostics-initial image";"Image dimension z";"case_4";0
+3;"Diagnostics-initial image";"Image dimension z";"case_5";0
+4;"Diagnostics-initial image";"Voxel dimension x";"case_1";0
+4;"Diagnostics-initial image";"Voxel dimension x";"case_2";0
+4;"Diagnostics-initial image";"Voxel dimension x";"case_3";0
+4;"Diagnostics-initial image";"Voxel dimension x";"case_4";0
+4;"Diagnostics-initial image";"Voxel dimension x";"case_5";0
+5;"Diagnostics-initial image";"Voxel dimension y";"case_1";0
+5;"Diagnostics-initial image";"Voxel dimension y";"case_2";0
+5;"Diagnostics-initial image";"Voxel dimension y";"case_3";0
+5;"Diagnostics-initial image";"Voxel dimension y";"case_4";0
+5;"Diagnostics-initial image";"Voxel dimension y";"case_5";0
+6;"Diagnostics-initial image";"Voxel dimension z";"case_1";0
+6;"Diagnostics-initial image";"Voxel dimension z";"case_2";0
+6;"Diagnostics-initial image";"Voxel dimension z";"case_3";0
+6;"Diagnostics-initial image";"Voxel dimension z";"case_4";0
+6;"Diagnostics-initial image";"Voxel dimension z";"case_5";0
+7;"Diagnostics-initial image";"Mean intensity";"case_1";0
+7;"Diagnostics-initial image";"Mean intensity";"case_2";0
+7;"Diagnostics-initial image";"Mean intensity";"case_3";0
+7;"Diagnostics-initial image";"Mean intensity";"case_4";0
+7;"Diagnostics-initial image";"Mean intensity";"case_5";0
+8;"Diagnostics-initial image";"Minimum intensity";"case_1";0
+8;"Diagnostics-initial image";"Minimum intensity";"case_2";0
+8;"Diagnostics-initial image";"Minimum intensity";"case_3";0
+8;"Diagnostics-initial image";"Minimum intensity";"case_4";0
+8;"Diagnostics-initial image";"Minimum intensity";"case_5";0
+9;"Diagnostics-initial image";"Maximum intensity";"case_1";0
+9;"Diagnostics-initial image";"Maximum intensity";"case_2";0
+9;"Diagnostics-initial image";"Maximum intensity";"case_3";0
+9;"Diagnostics-initial image";"Maximum intensity";"case_4";0
+9;"Diagnostics-initial image";"Maximum intensity";"case_5";0
+10;"Diagnostics-interpolated image";"Image dimension x";"case_1";1.4
+10;"Diagnostics-interpolated image";"Image dimension x";"case_2";0.65
+10;"Diagnostics-interpolated image";"Image dimension x";"case_3";0.65
+10;"Diagnostics-interpolated image";"Image dimension x";"case_4";0.65
+10;"Diagnostics-interpolated image";"Image dimension x";"case_5";0.65
+11;"Diagnostics-interpolated image";"Image dimension y";"case_1";1.45
+11;"Diagnostics-interpolated image";"Image dimension y";"case_2";0.7
+11;"Diagnostics-interpolated image";"Image dimension y";"case_3";0.7
+11;"Diagnostics-interpolated image";"Image dimension y";"case_4";0.7
+11;"Diagnostics-interpolated image";"Image dimension y";"case_5";0.7
+12;"Diagnostics-interpolated image";"Image dimension z";"case_1";0
+12;"Diagnostics-interpolated image";"Image dimension z";"case_2";0
+12;"Diagnostics-interpolated image";"Image dimension z";"case_3";0
+12;"Diagnostics-interpolated image";"Image dimension z";"case_4";0
+12;"Diagnostics-interpolated image";"Image dimension z";"case_5";0
+13;"Diagnostics-interpolated image";"Voxel dimension x";"case_1";0.000142287998545104
+13;"Diagnostics-interpolated image";"Voxel dimension x";"case_2";0
+13;"Diagnostics-interpolated image";"Voxel dimension x";"case_3";0
+13;"Diagnostics-interpolated image";"Voxel dimension x";"case_4";0
+13;"Diagnostics-interpolated image";"Voxel dimension x";"case_5";0
+14;"Diagnostics-interpolated image";"Voxel dimension y";"case_1";0.000174735513303836
+14;"Diagnostics-interpolated image";"Voxel dimension y";"case_2";0
+14;"Diagnostics-interpolated image";"Voxel dimension y";"case_3";0
+14;"Diagnostics-interpolated image";"Voxel dimension y";"case_4";0
+14;"Diagnostics-interpolated image";"Voxel dimension y";"case_5";0
+15;"Diagnostics-interpolated image";"Voxel dimension z";"case_1";0
+15;"Diagnostics-interpolated image";"Voxel dimension z";"case_2";0
+15;"Diagnostics-interpolated image";"Voxel dimension z";"case_3";0
+15;"Diagnostics-interpolated image";"Voxel dimension z";"case_4";0
+15;"Diagnostics-interpolated image";"Voxel dimension z";"case_5";0
+16;"Diagnostics-interpolated image";"Mean intensity";"case_1";2.10262489318848
+16;"Diagnostics-interpolated image";"Mean intensity";"case_2";1.97223739624023
+16;"Diagnostics-interpolated image";"Mean intensity";"case_3";1.97226219177246
+16;"Diagnostics-interpolated image";"Mean intensity";"case_4";1.97226219177246
+16;"Diagnostics-interpolated image";"Mean intensity";"case_5";1.97231178283691
+17;"Diagnostics-interpolated image";"Minimum intensity";"case_1";0
+17;"Diagnostics-interpolated image";"Minimum intensity";"case_2";0
+17;"Diagnostics-interpolated image";"Minimum intensity";"case_3";0
+17;"Diagnostics-interpolated image";"Minimum intensity";"case_4";0
+17;"Diagnostics-interpolated image";"Minimum intensity";"case_5";1.0625
+18;"Diagnostics-interpolated image";"Maximum intensity";"case_1";19.175
+18;"Diagnostics-interpolated image";"Maximum intensity";"case_2";22.375
+18;"Diagnostics-interpolated image";"Maximum intensity";"case_3";20.1
+18;"Diagnostics-interpolated image";"Maximum intensity";"case_4";20.1
+18;"Diagnostics-interpolated image";"Maximum intensity";"case_5";24.275
+19;"Diagnostics-initial ROI";"Int. mask dimension x";"case_1";0
+19;"Diagnostics-initial ROI";"Int. mask dimension x";"case_2";0
+19;"Diagnostics-initial ROI";"Int. mask dimension x";"case_3";0
+19;"Diagnostics-initial ROI";"Int. mask dimension x";"case_4";0
+19;"Diagnostics-initial ROI";"Int. mask dimension x";"case_5";0
+20;"Diagnostics-initial ROI";"Int. mask dimension y";"case_1";0
+20;"Diagnostics-initial ROI";"Int. mask dimension y";"case_2";0
+20;"Diagnostics-initial ROI";"Int. mask dimension y";"case_3";0
+20;"Diagnostics-initial ROI";"Int. mask dimension y";"case_4";0
+20;"Diagnostics-initial ROI";"Int. mask dimension y";"case_5";0
+21;"Diagnostics-initial ROI";"Int. mask dimension z";"case_1";0
+21;"Diagnostics-initial ROI";"Int. mask dimension z";"case_2";0
+21;"Diagnostics-initial ROI";"Int. mask dimension z";"case_3";0
+21;"Diagnostics-initial ROI";"Int. mask dimension z";"case_4";0
+21;"Diagnostics-initial ROI";"Int. mask dimension z";"case_5";0
+22;"Diagnostics-initial ROI";"Int. mask bounding box dimension x";"case_1";0
+22;"Diagnostics-initial ROI";"Int. mask bounding box dimension x";"case_2";0
+22;"Diagnostics-initial ROI";"Int. mask bounding box dimension x";"case_3";0
+22;"Diagnostics-initial ROI";"Int. mask bounding box dimension x";"case_4";0
+22;"Diagnostics-initial ROI";"Int. mask bounding box dimension x";"case_5";0
+23;"Diagnostics-initial ROI";"Int. mask bounding box dimension y";"case_1";0
+23;"Diagnostics-initial ROI";"Int. mask bounding box dimension y";"case_2";0
+23;"Diagnostics-initial ROI";"Int. mask bounding box dimension y";"case_3";0
+23;"Diagnostics-initial ROI";"Int. mask bounding box dimension y";"case_4";0
+23;"Diagnostics-initial ROI";"Int. mask bounding box dimension y";"case_5";0
+24;"Diagnostics-initial ROI";"Int. mask bounding box dimension z";"case_1";0
+24;"Diagnostics-initial ROI";"Int. mask bounding box dimension z";"case_2";0
+24;"Diagnostics-initial ROI";"Int. mask bounding box dimension z";"case_3";0
+24;"Diagnostics-initial ROI";"Int. mask bounding box dimension z";"case_4";0
+24;"Diagnostics-initial ROI";"Int. mask bounding box dimension z";"case_5";0
+25;"Diagnostics-initial ROI";"Morph. mask bounding box dimension x";"case_1";0
+25;"Diagnostics-initial ROI";"Morph. mask bounding box dimension x";"case_2";0
+25;"Diagnostics-initial ROI";"Morph. mask bounding box dimension x";"case_3";0
+25;"Diagnostics-initial ROI";"Morph. mask bounding box dimension x";"case_4";0
+25;"Diagnostics-initial ROI";"Morph. mask bounding box dimension x";"case_5";0
+26;"Diagnostics-initial ROI";"Morph. mask bounding box dimension y";"case_1";0
+26;"Diagnostics-initial ROI";"Morph. mask bounding box dimension y";"case_2";0
+26;"Diagnostics-initial ROI";"Morph. mask bounding box dimension y";"case_3";0
+26;"Diagnostics-initial ROI";"Morph. mask bounding box dimension y";"case_4";0
+26;"Diagnostics-initial ROI";"Morph. mask bounding box dimension y";"case_5";0
+27;"Diagnostics-initial ROI";"Morph. mask bounding box dimension z";"case_1";0
+27;"Diagnostics-initial ROI";"Morph. mask bounding box dimension z";"case_2";0
+27;"Diagnostics-initial ROI";"Morph. mask bounding box dimension z";"case_3";0
+27;"Diagnostics-initial ROI";"Morph. mask bounding box dimension z";"case_4";0
+27;"Diagnostics-initial ROI";"Morph. mask bounding box dimension z";"case_5";0
+28;"Diagnostics-initial ROI";"Int. mask voxel count";"case_1";0
+28;"Diagnostics-initial ROI";"Int. mask voxel count";"case_2";0
+28;"Diagnostics-initial ROI";"Int. mask voxel count";"case_3";0
+28;"Diagnostics-initial ROI";"Int. mask voxel count";"case_4";0
+28;"Diagnostics-initial ROI";"Int. mask voxel count";"case_5";0
+29;"Diagnostics-initial ROI";"Morph. mask voxel count";"case_1";0
+29;"Diagnostics-initial ROI";"Morph. mask voxel count";"case_2";0
+29;"Diagnostics-initial ROI";"Morph. mask voxel count";"case_3";0
+29;"Diagnostics-initial ROI";"Morph. mask voxel count";"case_4";0
+29;"Diagnostics-initial ROI";"Morph. mask voxel count";"case_5";0
+30;"Diagnostics-initial ROI";"Int. mask mean intensity";"case_1";0
+30;"Diagnostics-initial ROI";"Int. mask mean intensity";"case_2";0
+30;"Diagnostics-initial ROI";"Int. mask mean intensity";"case_3";0
+30;"Diagnostics-initial ROI";"Int. mask mean intensity";"case_4";0
+30;"Diagnostics-initial ROI";"Int. mask mean intensity";"case_5";0
+31;"Diagnostics-initial ROI";"Int. mask minimum intensity";"case_1";0
+31;"Diagnostics-initial ROI";"Int. mask minimum intensity";"case_2";0
+31;"Diagnostics-initial ROI";"Int. mask minimum intensity";"case_3";0
+31;"Diagnostics-initial ROI";"Int. mask minimum intensity";"case_4";0
+31;"Diagnostics-initial ROI";"Int. mask minimum intensity";"case_5";0
+32;"Diagnostics-initial ROI";"Int. mask maximum intensity";"case_1";0
+32;"Diagnostics-initial ROI";"Int. mask maximum intensity";"case_2";0
+32;"Diagnostics-initial ROI";"Int. mask maximum intensity";"case_3";0
+32;"Diagnostics-initial ROI";"Int. mask maximum intensity";"case_4";0
+32;"Diagnostics-initial ROI";"Int. mask maximum intensity";"case_5";0
+33;"Diagnostics-interpolated ROI";"Int. mask dimension x";"case_1";1.4
+33;"Diagnostics-interpolated ROI";"Int. mask dimension x";"case_2";0.65
+33;"Diagnostics-interpolated ROI";"Int. mask dimension x";"case_3";0.65
+33;"Diagnostics-interpolated ROI";"Int. mask dimension x";"case_4";0.65
+33;"Diagnostics-interpolated ROI";"Int. mask dimension x";"case_5";0.65
+34;"Diagnostics-interpolated ROI";"Int. mask dimension y";"case_1";1.45
+34;"Diagnostics-interpolated ROI";"Int. mask dimension y";"case_2";0.7
+34;"Diagnostics-interpolated ROI";"Int. mask dimension y";"case_3";0.7
+34;"Diagnostics-interpolated ROI";"Int. mask dimension y";"case_4";0.7
+34;"Diagnostics-interpolated ROI";"Int. mask dimension y";"case_5";0.7
+35;"Diagnostics-interpolated ROI";"Int. mask dimension z";"case_1";0
+35;"Diagnostics-interpolated ROI";"Int. mask dimension z";"case_2";0
+35;"Diagnostics-interpolated ROI";"Int. mask dimension z";"case_3";0
+35;"Diagnostics-interpolated ROI";"Int. mask dimension z";"case_4";0
+35;"Diagnostics-interpolated ROI";"Int. mask dimension z";"case_5";0
+36;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension x";"case_1";0.2
+36;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension x";"case_2";0.1
+36;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension x";"case_3";0.1
+36;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension x";"case_4";0.1
+36;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension x";"case_5";0.1
+37;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension y";"case_1";0.35
+37;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension y";"case_2";0.15
+37;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension y";"case_3";0.15
+37;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension y";"case_4";0.15
+37;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension y";"case_5";0.15
+38;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension z";"case_1";0
+38;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension z";"case_2";0
+38;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension z";"case_3";0
+38;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension z";"case_4";0
+38;"Diagnostics-interpolated ROI";"Int. mask bounding box dimension z";"case_5";0
+39;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension x";"case_1";0.2
+39;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension x";"case_2";0.1
+39;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension x";"case_3";0.1
+39;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension x";"case_4";0.1
+39;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension x";"case_5";0.1
+40;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension y";"case_1";0.35
+40;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension y";"case_2";0.15
+40;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension y";"case_3";0.15
+40;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension y";"case_4";0.15
+40;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension y";"case_5";0.15
+41;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension z";"case_1";0
+41;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension z";"case_2";0
+41;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension z";"case_3";0
+41;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension z";"case_4";0
+41;"Diagnostics-interpolated ROI";"Morph. mask bounding box dimension z";"case_5";0
+42;"Diagnostics-interpolated ROI";"Int. mask voxel count";"case_1";1.55
+42;"Diagnostics-interpolated ROI";"Int. mask voxel count";"case_2";4.475
+42;"Diagnostics-interpolated ROI";"Int. mask voxel count";"case_3";8.1
+42;"Diagnostics-interpolated ROI";"Int. mask voxel count";"case_4";8.1
+42;"Diagnostics-interpolated ROI";"Int. mask voxel count";"case_5";8.1
+43;"Diagnostics-interpolated ROI";"Morph. mask voxel count";"case_1";1.55
+43;"Diagnostics-interpolated ROI";"Morph. mask voxel count";"case_2";4.475
+43;"Diagnostics-interpolated ROI";"Morph. mask voxel count";"case_3";8.1
+43;"Diagnostics-interpolated ROI";"Morph. mask voxel count";"case_4";8.1
+43;"Diagnostics-interpolated ROI";"Morph. mask voxel count";"case_5";8.1
+44;"Diagnostics-interpolated ROI";"Int. mask mean intensity";"case_1";0.0201597213745117
+44;"Diagnostics-interpolated ROI";"Int. mask mean intensity";"case_2";0.0183212280273438
+44;"Diagnostics-interpolated ROI";"Int. mask mean intensity";"case_3";0.0156459331512451
+44;"Diagnostics-interpolated ROI";"Int. mask mean intensity";"case_4";0.0156459331512451
+44;"Diagnostics-interpolated ROI";"Int. mask mean intensity";"case_5";0.0155887603759766
+45;"Diagnostics-interpolated ROI";"Int. mask minimum intensity";"case_1";1.0125
+45;"Diagnostics-interpolated ROI";"Int. mask minimum intensity";"case_2";0.775
+45;"Diagnostics-interpolated ROI";"Int. mask minimum intensity";"case_3";0.45
+45;"Diagnostics-interpolated ROI";"Int. mask minimum intensity";"case_4";0.45
+45;"Diagnostics-interpolated ROI";"Int. mask minimum intensity";"case_5";0.725
+46;"Diagnostics-interpolated ROI";"Int. mask maximum intensity";"case_1";3.325
+46;"Diagnostics-interpolated ROI";"Int. mask maximum intensity";"case_2";5.3625
+46;"Diagnostics-interpolated ROI";"Int. mask maximum intensity";"case_3";3.35
+46;"Diagnostics-interpolated ROI";"Int. mask maximum intensity";"case_4";3.35
+46;"Diagnostics-interpolated ROI";"Int. mask maximum intensity";"case_5";4.0125
+47;"Diagnostics-resegmented ROI";"Int. mask dimension x";"case_1";1.4
+47;"Diagnostics-resegmented ROI";"Int. mask dimension x";"case_2";0.65
+47;"Diagnostics-resegmented ROI";"Int. mask dimension x";"case_3";0.65
+47;"Diagnostics-resegmented ROI";"Int. mask dimension x";"case_4";0.65
+47;"Diagnostics-resegmented ROI";"Int. mask dimension x";"case_5";0.65
+48;"Diagnostics-resegmented ROI";"Int. mask dimension y";"case_1";1.45
+48;"Diagnostics-resegmented ROI";"Int. mask dimension y";"case_2";0.7
+48;"Diagnostics-resegmented ROI";"Int. mask dimension y";"case_3";0.7
+48;"Diagnostics-resegmented ROI";"Int. mask dimension y";"case_4";0.7
+48;"Diagnostics-resegmented ROI";"Int. mask dimension y";"case_5";0.7
+49;"Diagnostics-resegmented ROI";"Int. mask dimension z";"case_1";0
+49;"Diagnostics-resegmented ROI";"Int. mask dimension z";"case_2";0
+49;"Diagnostics-resegmented ROI";"Int. mask dimension z";"case_3";0
+49;"Diagnostics-resegmented ROI";"Int. mask dimension z";"case_4";0
+49;"Diagnostics-resegmented ROI";"Int. mask dimension z";"case_5";0
+50;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension x";"case_1";0.25
+50;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension x";"case_2";0.15
+50;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension x";"case_3";0.15
+50;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension x";"case_4";0.15
+50;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension x";"case_5";0.15
+51;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension y";"case_1";0.2625
+51;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension y";"case_2";0.2
+51;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension y";"case_3";0.1625
+51;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension y";"case_4";0.1625
+51;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension y";"case_5";0.1625
+52;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension z";"case_1";0
+52;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension z";"case_2";0
+52;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension z";"case_3";0.2
+52;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension z";"case_4";0.2
+52;"Diagnostics-resegmented ROI";"Int. mask bounding box dimension z";"case_5";0.2
+53;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension x";"case_1";0.25
+53;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension x";"case_2";0.15
+53;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension x";"case_3";0.15
+53;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension x";"case_4";0.15
+53;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension x";"case_5";0.15
+54;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension y";"case_1";0.2625
+54;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension y";"case_2";0.2
+54;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension y";"case_3";0.1625
+54;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension y";"case_4";0.1625
+54;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension y";"case_5";0.1625
+55;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension z";"case_1";0
+55;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension z";"case_2";0
+55;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension z";"case_3";0.2
+55;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension z";"case_4";0.2
+55;"Diagnostics-resegmented ROI";"Morph. mask bounding box dimension z";"case_5";0.2
+56;"Diagnostics-resegmented ROI";"Int. mask voxel count";"case_1";876.5625
+56;"Diagnostics-resegmented ROI";"Int. mask voxel count";"case_2";209.8
+56;"Diagnostics-resegmented ROI";"Int. mask voxel count";"case_3";504.7125
+56;"Diagnostics-resegmented ROI";"Int. mask voxel count";"case_4";504.7125
+56;"Diagnostics-resegmented ROI";"Int. mask voxel count";"case_5";485.775
+57;"Diagnostics-resegmented ROI";"Morph. mask voxel count";"case_1";1230.4375
+57;"Diagnostics-resegmented ROI";"Morph. mask voxel count";"case_2";295.125
+57;"Diagnostics-resegmented ROI";"Morph. mask voxel count";"case_3";675.1875
+57;"Diagnostics-resegmented ROI";"Morph. mask voxel count";"case_4";675.1875
+57;"Diagnostics-resegmented ROI";"Morph. mask voxel count";"case_5";675.1875
+58;"Diagnostics-resegmented ROI";"Int. mask mean intensity";"case_1";0.936224403977394
+58;"Diagnostics-resegmented ROI";"Int. mask mean intensity";"case_2";0.965288218855858
+58;"Diagnostics-resegmented ROI";"Int. mask mean intensity";"case_3";1.06124666631222
+58;"Diagnostics-resegmented ROI";"Int. mask mean intensity";"case_4";1.06124666631222
+58;"Diagnostics-resegmented ROI";"Int. mask mean intensity";"case_5";0.997900176048279
+59;"Diagnostics-resegmented ROI";"Int. mask minimum intensity";"case_1";0
+59;"Diagnostics-resegmented ROI";"Int. mask minimum intensity";"case_2";0
+59;"Diagnostics-resegmented ROI";"Int. mask minimum intensity";"case_3";0
+59;"Diagnostics-resegmented ROI";"Int. mask minimum intensity";"case_4";0
+59;"Diagnostics-resegmented ROI";"Int. mask minimum intensity";"case_5";5.15
+60;"Diagnostics-resegmented ROI";"Int. mask maximum intensity";"case_1";6.8125
+60;"Diagnostics-resegmented ROI";"Int. mask maximum intensity";"case_2";8.0375
+60;"Diagnostics-resegmented ROI";"Int. mask maximum intensity";"case_3";10.05
+60;"Diagnostics-resegmented ROI";"Int. mask maximum intensity";"case_4";10.05
+60;"Diagnostics-resegmented ROI";"Int. mask maximum intensity";"case_5";7.575
+61;"Morphology";"Volume";"case_1";3496.184593713
+61;"Morphology";"Volume";"case_2";3540.5875
+61;"Morphology";"Volume";"case_3";5400.125
+61;"Morphology";"Volume";"case_4";5400.125
+61;"Morphology";"Volume";"case_5";5400.125
+62;"Morphology";"Approximate volume";"case_1";3495.60041964234
+62;"Morphology";"Approximate volume";"case_2";3541.5
+62;"Morphology";"Approximate volume";"case_3";5401.5
+62;"Morphology";"Approximate volume";"case_4";5401.5
+62;"Morphology";"Approximate volume";"case_5";5401.5
+63;"Morphology";"Surface area";"case_1";195.771368603878
+63;"Morphology";"Surface area";"case_2";192.366187221311
+63;"Morphology";"Surface area";"case_3";247.628055507634
+63;"Morphology";"Surface area";"case_4";247.628055507634
+63;"Morphology";"Surface area";"case_5";247.628055507634
+64;"Morphology";"Surface to volume ratio";"case_1";0.000380949655269858
+64;"Morphology";"Surface to volume ratio";"case_2";0.000370136326227555
+64;"Morphology";"Surface to volume ratio";"case_3";0.00062314524968098
+64;"Morphology";"Surface to volume ratio";"case_4";0.00062314524968098
+64;"Morphology";"Surface to volume ratio";"case_5";0.00062314524968098
+65;"Morphology";"Compactness 1";"case_1";3.387369513184e-05
+65;"Morphology";"Compactness 1";"case_2";3.34599117619891e-05
+65;"Morphology";"Compactness 1";"case_3";0.000139221509766499
+65;"Morphology";"Compactness 1";"case_4";0.000139221509766499
+65;"Morphology";"Compactness 1";"case_5";0.000139221509766499
+66;"Morphology";"Compactness 2";"case_1";0.000715969565170493
+66;"Morphology";"Compactness 2";"case_2";0.000769640796951149
+66;"Morphology";"Compactness 2";"case_3";0.00344481051316892
+66;"Morphology";"Compactness 2";"case_4";0.00344481051316892
+66;"Morphology";"Compactness 2";"case_5";0.00344481051316892
+67;"Morphology";"Spherical disproportion";"case_1";0.00111672451840383
+67;"Morphology";"Spherical disproportion";"case_2";0.000958036557612607
+67;"Morphology";"Spherical disproportion";"case_3";0.0035336031178605
+67;"Morphology";"Spherical disproportion";"case_4";0.0035336031178605
+67;"Morphology";"Spherical disproportion";"case_5";0.0035336031178605
+68;"Morphology";"Sphericity";"case_1";0.000516229701642668
+68;"Morphology";"Sphericity";"case_2";0.000495747694123877
+68;"Morphology";"Sphericity";"case_3";0.00201337668619494
+68;"Morphology";"Sphericity";"case_4";0.00201337668619494
+68;"Morphology";"Sphericity";"case_5";0.00201337668619494
+69;"Morphology";"Asphericity";"case_1";0.00111672451840384
+69;"Morphology";"Asphericity";"case_2";0.000958036557612602
+69;"Morphology";"Asphericity";"case_3";0.00353360311786049
+69;"Morphology";"Asphericity";"case_4";0.00353360311786049
+69;"Morphology";"Asphericity";"case_5";0.00353360311786049
+70;"Morphology";"Centre of mass shift";"case_1";21.7026944512623
+70;"Morphology";"Centre of mass shift";"case_2";28.9326481519706
+70;"Morphology";"Centre of mass shift";"case_3";15.6016015747805
+70;"Morphology";"Centre of mass shift";"case_4";15.6016015747805
+70;"Morphology";"Centre of mass shift";"case_5";1.05842551545389
+71;"Morphology";"Maximum 3D diameter";"case_1";0.255119345080935
+71;"Morphology";"Maximum 3D diameter";"case_2";0.25262633588552
+71;"Morphology";"Maximum 3D diameter";"case_3";0.292168691060431
+71;"Morphology";"Maximum 3D diameter";"case_4";0.292168691060431
+71;"Morphology";"Maximum 3D diameter";"case_5";0.292168691060431
+72;"Morphology";"Major axis length";"case_1";0.283726922960427
+72;"Morphology";"Major axis length";"case_2";0.28899441188094
+72;"Morphology";"Major axis length";"case_3";0.402496384447017
+72;"Morphology";"Major axis length";"case_4";0.402496384447017
+72;"Morphology";"Major axis length";"case_5";0.402496384447017
+73;"Morphology";"Minor axis length";"case_1";0.328605480269182
+73;"Morphology";"Minor axis length";"case_2";0.332375940856296
+73;"Morphology";"Minor axis length";"case_3";0.391282386074362
+73;"Morphology";"Minor axis length";"case_4";0.391282386074362
+73;"Morphology";"Minor axis length";"case_5";0.391282386074362
+74;"Morphology";"Least axis length";"case_1";0.156449708472452
+74;"Morphology";"Least axis length";"case_2";0.157953274704519
+74;"Morphology";"Least axis length";"case_3";0.354304721233756
+74;"Morphology";"Least axis length";"case_4";0.354304721233756
+74;"Morphology";"Least axis length";"case_5";0.354304721233756
+75;"Morphology";"Elongation";"case_1";0.00075133484229748
+75;"Morphology";"Elongation";"case_2";0.000771453917034559
+75;"Morphology";"Elongation";"case_3";0.000334141640771996
+75;"Morphology";"Elongation";"case_4";0.000334141640771996
+75;"Morphology";"Elongation";"case_5";0.000334141640771996
+76;"Morphology";"Flatness";"case_1";0.000618017366175855
+76;"Morphology";"Flatness";"case_2";0.000600948221314351
+76;"Morphology";"Flatness";"case_3";0.000450603649038372
+76;"Morphology";"Flatness";"case_4";0.000450603649038372
+76;"Morphology";"Flatness";"case_5";0.000450603649038372
+77;"Morphology";"Volume density-AABB";"case_1";0.00221892790127269
+77;"Morphology";"Volume density-AABB";"case_2";0.00200854540637305
+77;"Morphology";"Volume density-AABB";"case_3";0.00228170703535876
+77;"Morphology";"Volume density-AABB";"case_4";0.00228170703535876
+77;"Morphology";"Volume density-AABB";"case_5";0.00228170703535876
+78;"Morphology";"Area density-AABB";"case_1";0.0024271660165479
+78;"Morphology";"Area density-AABB";"case_2";0.00229997809493373
+78;"Morphology";"Area density-AABB";"case_3";0.0019955467936614
+78;"Morphology";"Area density-AABB";"case_4";0.0019955467936614
+78;"Morphology";"Area density-AABB";"case_5";0.0019955467936614
+79;"Morphology";"Volume density-OMBB";"case_1";0.00081942546719159
+79;"Morphology";"Volume density-OMBB";"case_2";0.000833520844455823
+79;"Morphology";"Volume density-OMBB";"case_3";0.000539030834277257
+79;"Morphology";"Volume density-OMBB";"case_4";0.000539030834277257
+79;"Morphology";"Volume density-OMBB";"case_5";0.000539030834277257
+80;"Morphology";"Area density-OMBB";"case_1";0.000277320032766376
+80;"Morphology";"Area density-OMBB";"case_2";0.000351830893171312
+80;"Morphology";"Area density-OMBB";"case_3";0.00121491054260948
+80;"Morphology";"Area density-OMBB";"case_4";0.00121491054260948
+80;"Morphology";"Area density-OMBB";"case_5";0.00121491054260948
+81;"Morphology";"Volume density-AEE";"case_1";0.000406501029915307
+81;"Morphology";"Volume density-AEE";"case_2";0.000402120694022545
+81;"Morphology";"Volume density-AEE";"case_3";0.000696646073800677
+81;"Morphology";"Volume density-AEE";"case_4";0.000696646073800677
+81;"Morphology";"Volume density-AEE";"case_5";0.000696646073800677
+82;"Morphology";"Area density-AEE";"case_1";0.00239171224542423
+82;"Morphology";"Area density-AEE";"case_2";0.00228158681353998
+82;"Morphology";"Area density-AEE";"case_3";0.00381956040741738
+82;"Morphology";"Area density-AEE";"case_4";0.00381956040741738
+82;"Morphology";"Area density-AEE";"case_5";0.00381956040741738
+83;"Morphology";"Volume density-MVEE";"case_1";0.000920432803395932
+83;"Morphology";"Volume density-MVEE";"case_2";0.000774786868373792
+83;"Morphology";"Volume density-MVEE";"case_3";0.00214137153646066
+83;"Morphology";"Volume density-MVEE";"case_4";0.00214137153646066
+83;"Morphology";"Volume density-MVEE";"case_5";0.00214137153646066
+84;"Morphology";"Area density-MVEE";"case_1";0.000464415152698661
+84;"Morphology";"Area density-MVEE";"case_2";0.000604728933806031
+84;"Morphology";"Area density-MVEE";"case_3";0.00124638621722712
+84;"Morphology";"Area density-MVEE";"case_4";0.00124638621722712
+84;"Morphology";"Area density-MVEE";"case_5";0.00124638621722712
+85;"Morphology";"Volume density-convex hull";"case_1";0.000944890988541297
+85;"Morphology";"Volume density-convex hull";"case_2";0.000879583552790625
+85;"Morphology";"Volume density-convex hull";"case_3";0.00127847134978401
+85;"Morphology";"Volume density-convex hull";"case_4";0.00127847134978401
+85;"Morphology";"Volume density-convex hull";"case_5";0.00127847134978401
+86;"Morphology";"Area density-convex hull";"case_1";0.00043980948050425
+86;"Morphology";"Area density-convex hull";"case_2";0.000253592304558714
+86;"Morphology";"Area density-convex hull";"case_3";0.00153588487761018
+86;"Morphology";"Area density-convex hull";"case_4";0.00153588487761018
+86;"Morphology";"Area density-convex hull";"case_5";0.00153588487761018
+87;"Morphology";"Integrated intensity";"case_1";297744.42216751
+87;"Morphology";"Integrated intensity";"case_2";307057.913149821
+87;"Morphology";"Integrated intensity";"case_3";343694.27012871
+87;"Morphology";"Integrated intensity";"case_4";343694.27012871
+87;"Morphology";"Integrated intensity";"case_5";210358.600864967
+88;"Morphology";"Morans I";"case_1";0.000102308134008681
+88;"Morphology";"Morans I";"case_2";9.86442561238695e-05
+88;"Morphology";"Morans I";"case_3";0.00011549636135863
+88;"Morphology";"Morans I";"case_4";0.00011435270224918
+88;"Morphology";"Morans I";"case_5";0.000196464962234969
+89;"Morphology";"Gearys C";"case_1";0.000447201940587927
+89;"Morphology";"Gearys C";"case_2";0.000443886951147882
+89;"Morphology";"Gearys C";"case_3";0.000301182858129806
+89;"Morphology";"Gearys C";"case_4";0.000289086886918005
+89;"Morphology";"Gearys C";"case_5";0.000270763362672688
+90;"Local intensity";"Local intensity peak";"case_1";11.066458940506
+90;"Local intensity";"Local intensity peak";"case_2";8.71609585285187
+90;"Local intensity";"Local intensity peak";"case_3";7.11605687141418
+90;"Local intensity";"Local intensity peak";"case_4";7.11605687141418
+90;"Local intensity";"Local intensity peak";"case_5";11.1722561359406
+91;"Local intensity";"Global intensity peak";"case_1";3.73442077636719
+91;"Local intensity";"Global intensity peak";"case_2";3.86986255645752
+91;"Local intensity";"Global intensity peak";"case_3";3.8107723236084
+91;"Local intensity";"Global intensity peak";"case_4";3.8107723236084
+91;"Local intensity";"Global intensity peak";"case_5";3.94288597106934
+92;"Statistics";"Mean";"case_1";0.936224403977394
+92;"Statistics";"Mean";"case_2";0.965288218855858
+92;"Statistics";"Mean";"case_3";1.06124666631222
+92;"Statistics";"Mean";"case_4";1.06124666631222
+92;"Statistics";"Mean";"case_5";0.997900176048279
+93;"Statistics";"Variance";"case_1";294.223962402344
+93;"Statistics";"Variance";"case_2";291.238513183594
+93;"Statistics";"Variance";"case_3";329.757983398438
+93;"Statistics";"Variance";"case_4";329.757983398438
+93;"Statistics";"Variance";"case_5";312.162210083008
+94;"Statistics";"Skewness";"case_1";0.0362872719764709
+94;"Statistics";"Skewness";"case_2";0.0364816784858704
+94;"Statistics";"Skewness";"case_3";0.0396869152784348
+94;"Statistics";"Skewness";"case_4";0.0396869152784348
+94;"Statistics";"Skewness";"case_5";0.0122570902109146
+95;"Statistics";"Kurtosis";"case_1";0.227693364136669
+95;"Statistics";"Kurtosis";"case_2";0.229427666338387
+95;"Statistics";"Kurtosis";"case_3";0.248730186194806
+95;"Statistics";"Kurtosis";"case_4";0.248730186194806
+95;"Statistics";"Kurtosis";"case_5";0.168524910792194
+96;"Statistics";"Median";"case_1";0.15
+96;"Statistics";"Median";"case_2";0.2
+96;"Statistics";"Median";"case_3";0.1
+96;"Statistics";"Median";"case_4";0.1
+96;"Statistics";"Median";"case_5";0.1
+97;"Statistics";"Minimum";"case_1";0
+97;"Statistics";"Minimum";"case_2";0
+97;"Statistics";"Minimum";"case_3";0
+97;"Statistics";"Minimum";"case_4";0
+97;"Statistics";"Minimum";"case_5";5.15
+98;"Statistics";"Percentile 10";"case_1";6.95
+98;"Statistics";"Percentile 10";"case_2";7.05
+98;"Statistics";"Percentile 10";"case_3";7.1
+98;"Statistics";"Percentile 10";"case_4";7.1
+98;"Statistics";"Percentile 10";"case_5";5.80625
+99;"Statistics";"Percentile 90";"case_1";0.1
+99;"Statistics";"Percentile 90";"case_2";0
+99;"Statistics";"Percentile 90";"case_3";0.05
+99;"Statistics";"Percentile 90";"case_4";0.05
+99;"Statistics";"Percentile 90";"case_5";0
+100;"Statistics";"Maximum";"case_1";6.8125
+100;"Statistics";"Maximum";"case_2";8.0375
+100;"Statistics";"Maximum";"case_3";10.05
+100;"Statistics";"Maximum";"case_4";10.05
+100;"Statistics";"Maximum";"case_5";7.575
+101;"Statistics";"Interquartile range";"case_1";0.3
+101;"Statistics";"Interquartile range";"case_2";0.35
+101;"Statistics";"Interquartile range";"case_3";0.4
+101;"Statistics";"Interquartile range";"case_4";0.4
+101;"Statistics";"Interquartile range";"case_5";0.3
+102;"Statistics";"Range";"case_1";6.8125
+102;"Statistics";"Range";"case_2";8.0375
+102;"Statistics";"Range";"case_3";10.05
+102;"Statistics";"Range";"case_4";10.05
+102;"Statistics";"Range";"case_5";12.725
+103;"Statistics";"Mean absolute deviation";"case_1";1.31761671684493
+103;"Statistics";"Mean absolute deviation";"case_2";1.32051048513814
+103;"Statistics";"Mean absolute deviation";"case_3";1.49890616184198
+103;"Statistics";"Mean absolute deviation";"case_4";1.49890616184198
+103;"Statistics";"Mean absolute deviation";"case_5";1.30599325776116
+104;"Statistics";"Robust mean absolute deviation";"case_1";0.678007253887293
+104;"Statistics";"Robust mean absolute deviation";"case_2";0.69144333176681
+104;"Statistics";"Robust mean absolute deviation";"case_3";0.825213872752033
+104;"Statistics";"Robust mean absolute deviation";"case_4";0.825213872752033
+104;"Statistics";"Robust mean absolute deviation";"case_5";0.376409477778614
+105;"Statistics";"Median absolute deviation";"case_1";0.941620206832886
+105;"Statistics";"Median absolute deviation";"case_2";0.939414930343628
+105;"Statistics";"Median absolute deviation";"case_3";1.04706616401672
+105;"Statistics";"Median absolute deviation";"case_4";1.04706616401672
+105;"Statistics";"Median absolute deviation";"case_5";0.994273042678833
+106;"Statistics";"Coefficient of variation";"case_1";3.77400209679993
+106;"Statistics";"Coefficient of variation";"case_2";4.95330456593525
+106;"Statistics";"Coefficient of variation";"case_3";3.41917676616309
+106;"Statistics";"Coefficient of variation";"case_4";3.41917676616309
+106;"Statistics";"Coefficient of variation";"case_5";0.187515179129832
+107;"Statistics";"Quartile coefficient of dispersion";"case_1";0.00683987274655356
+107;"Statistics";"Quartile coefficient of dispersion";"case_2";0.0070455735987428
+107;"Statistics";"Quartile coefficient of dispersion";"case_3";0.00799077465744132
+107;"Statistics";"Quartile coefficient of dispersion";"case_4";0.00799077465744132
+107;"Statistics";"Quartile coefficient of dispersion";"case_5";0.00541950113378684
+108;"Statistics";"Energy";"case_1";43921273.275
+108;"Statistics";"Energy";"case_2";10421400.8125
+108;"Statistics";"Energy";"case_3";20412649.95
+108;"Statistics";"Energy";"case_4";20412649.95
+108;"Statistics";"Energy";"case_5";14182334.9875
+109;"Statistics";"Root mean square";"case_1";1.14086496511393
+109;"Statistics";"Root mean square";"case_2";1.129139768979
+109;"Statistics";"Root mean square";"case_3";1.30256794124658
+109;"Statistics";"Root mean square";"case_4";1.30256794124658
+109;"Statistics";"Root mean square";"case_5";1.43578250572651
+110;"Intensity histogram";"Mean";"case_2";0.233515161289041
+110;"Intensity histogram";"Mean";"case_4";0.302029766037749
+110;"Intensity histogram";"Mean";"case_5";0.166284120532169
+110;"Intensity histogram";"Mean";"case_1";0.0374383453750404
+110;"Intensity histogram";"Mean";"case_3";0.0423958101751216
+111;"Intensity histogram";"Variance";"case_2";0.0967279683696226
+111;"Intensity histogram";"Variance";"case_4";0.145017124501615
+111;"Intensity histogram";"Variance";"case_5";0.112963194617806
+111;"Intensity histogram";"Variance";"case_1";0.470430541783954
+111;"Intensity histogram";"Variance";"case_3";0.526953932565109
+112;"Intensity histogram";"Skewness";"case_2";0.0362767714407707
+112;"Intensity histogram";"Skewness";"case_4";0.0395854752411651
+112;"Intensity histogram";"Skewness";"case_5";0.0120172252869711
+112;"Intensity histogram";"Skewness";"case_1";0.0356997279747289
+112;"Intensity histogram";"Skewness";"case_3";0.0390075674775248
+113;"Intensity histogram";"Kurtosis";"case_2";0.227527552297667
+113;"Intensity histogram";"Kurtosis";"case_4";0.246992914879246
+113;"Intensity histogram";"Kurtosis";"case_5";0.166251015004
+113;"Intensity histogram";"Kurtosis";"case_1";0.224462844003409
+113;"Intensity histogram";"Kurtosis";"case_3";0.244867881526378
+114;"Intensity histogram";"Median";"case_2";0.2
+114;"Intensity histogram";"Median";"case_4";0.3
+114;"Intensity histogram";"Median";"case_5";0.15
+114;"Intensity histogram";"Median";"case_1";0
+114;"Intensity histogram";"Median";"case_3";0
+115;"Intensity histogram";"Minimum";"case_2";0
+115;"Intensity histogram";"Minimum";"case_4";0
+115;"Intensity histogram";"Minimum";"case_5";0
+115;"Intensity histogram";"Minimum";"case_1";0
+115;"Intensity histogram";"Minimum";"case_3";0
+116;"Intensity histogram";"Percentile 10";"case_2";0.45
+116;"Intensity histogram";"Percentile 10";"case_4";0.45
+116;"Intensity histogram";"Percentile 10";"case_5";0.3
+116;"Intensity histogram";"Percentile 10";"case_1";0.3
+116;"Intensity histogram";"Percentile 10";"case_3";0.3
+117;"Intensity histogram";"Percentile 90";"case_2";0.2
+117;"Intensity histogram";"Percentile 90";"case_4";0.3
+117;"Intensity histogram";"Percentile 90";"case_5";0.2
+117;"Intensity histogram";"Percentile 90";"case_1";0
+117;"Intensity histogram";"Percentile 90";"case_3";0
+118;"Intensity histogram";"Maximum";"case_2";0
+118;"Intensity histogram";"Maximum";"case_4";0
+118;"Intensity histogram";"Maximum";"case_5";0
+118;"Intensity histogram";"Maximum";"case_1";0.25
+118;"Intensity histogram";"Maximum";"case_3";0.4
+119;"Intensity histogram";"Mode";"case_2";0.25
+119;"Intensity histogram";"Mode";"case_4";0.3
+119;"Intensity histogram";"Mode";"case_5";0.1
+119;"Intensity histogram";"Mode";"case_1";0
+119;"Intensity histogram";"Mode";"case_3";0.05
+120;"Intensity histogram";"Interquartile range";"case_2";0
+120;"Intensity histogram";"Interquartile range";"case_4";0
+120;"Intensity histogram";"Interquartile range";"case_5";0.05
+120;"Intensity histogram";"Interquartile range";"case_1";0
+120;"Intensity histogram";"Interquartile range";"case_3";0
+121;"Intensity histogram";"Range";"case_2";0
+121;"Intensity histogram";"Range";"case_4";0
+121;"Intensity histogram";"Range";"case_5";0
+121;"Intensity histogram";"Range";"case_1";0.25
+121;"Intensity histogram";"Range";"case_3";0.4
+122;"Intensity histogram";"Mean absolute deviation";"case_2";0.0216470829646421
+122;"Intensity histogram";"Mean absolute deviation";"case_4";0.0213589097185747
+122;"Intensity histogram";"Mean absolute deviation";"case_5";0.0142521929821258
+122;"Intensity histogram";"Mean absolute deviation";"case_1";0.0513843700743312
+122;"Intensity histogram";"Mean absolute deviation";"case_3";0.0586201964636033
+123;"Intensity histogram";"Robust mean absolute deviation";"case_2";0.0162780287070958
+123;"Intensity histogram";"Robust mean absolute deviation";"case_4";0.0153551284536396
+123;"Intensity histogram";"Robust mean absolute deviation";"case_5";0.0082050752095579
+123;"Intensity histogram";"Robust mean absolute deviation";"case_1";0.0286839546534042
+123;"Intensity histogram";"Robust mean absolute deviation";"case_3";0.0317529544916916
+124;"Intensity histogram";"Median absolute deviation";"case_2";0.0118173539638519
+124;"Intensity histogram";"Median absolute deviation";"case_4";0.0110242962837219
+124;"Intensity histogram";"Median absolute deviation";"case_5";0.00652611255645752
+124;"Intensity histogram";"Median absolute deviation";"case_1";0.036658501625061
+124;"Intensity histogram";"Median absolute deviation";"case_3";0.0413103550672531
+125;"Intensity histogram";"Coefficient of variation";"case_2";0.00271387859197549
+125;"Intensity histogram";"Coefficient of variation";"case_4";0.00306902471551443
+125;"Intensity histogram";"Coefficient of variation";"case_5";0.00252342954613609
+125;"Intensity histogram";"Coefficient of variation";"case_1";0.00278279039325393
+125;"Intensity histogram";"Coefficient of variation";"case_3";0.00313042982872501
+126;"Intensity histogram";"Quartile coefficient of dispersion";"case_2";0.000416666666666667
+126;"Intensity histogram";"Quartile coefficient of dispersion";"case_4";0.000576923076923077
+126;"Intensity histogram";"Quartile coefficient of dispersion";"case_5";0.000710594315245478
+126;"Intensity histogram";"Quartile coefficient of dispersion";"case_1";0
+126;"Intensity histogram";"Quartile coefficient of dispersion";"case_3";0
+127;"Intensity histogram";"Entropy";"case_2";0.00426744788376792
+127;"Intensity histogram";"Entropy";"case_4";0.00399199611923402
+127;"Intensity histogram";"Entropy";"case_5";0.00876411727185706
+127;"Intensity histogram";"Entropy";"case_1";0.0163194255882303
+127;"Intensity histogram";"Entropy";"case_3";0.0177919675535241
+128;"Intensity histogram";"Uniformity";"case_2";0.00042172907017422
+128;"Intensity histogram";"Uniformity";"case_4";0.000677061521416659
+128;"Intensity histogram";"Uniformity";"case_5";0.00146747663254956
+128;"Intensity histogram";"Uniformity";"case_1";0.00135000934400076
+128;"Intensity histogram";"Uniformity";"case_3";0.00148802237688598
+129;"Intensity histogram";"Maximum gradient";"case_2";40.775
+129;"Intensity histogram";"Maximum gradient";"case_4";99.1
+129;"Intensity histogram";"Maximum gradient";"case_5";99.3
+129;"Intensity histogram";"Maximum gradient";"case_1";16.84375
+129;"Intensity histogram";"Maximum gradient";"case_3";17.19375
+130;"Intensity histogram";"Maximum gradient grey level";"case_2";0.2
+130;"Intensity histogram";"Maximum gradient grey level";"case_4";0.25
+130;"Intensity histogram";"Maximum gradient grey level";"case_5";0.1
+130;"Intensity histogram";"Maximum gradient grey level";"case_1";0
+130;"Intensity histogram";"Maximum gradient grey level";"case_3";0
+131;"Intensity histogram";"Minimum gradient";"case_2";38.1125
+131;"Intensity histogram";"Minimum gradient";"case_4";94.675
+131;"Intensity histogram";"Minimum gradient";"case_5";111.56875
+131;"Intensity histogram";"Minimum gradient";"case_1";31.5
+131;"Intensity histogram";"Minimum gradient";"case_3";46.0625
+132;"Intensity histogram";"Minimum gradient grey level";"case_2";0.2
+132;"Intensity histogram";"Minimum gradient grey level";"case_4";0.3125
+132;"Intensity histogram";"Minimum gradient grey level";"case_5";0.2
+132;"Intensity histogram";"Minimum gradient grey level";"case_1";0
+132;"Intensity histogram";"Minimum gradient grey level";"case_3";0
+133;"Intensity volume histogram";"Volume fraction at 0.10 intensity";"case_1";0.000586523544352829
+133;"Intensity volume histogram";"Volume fraction at 0.10 intensity";"case_2";0.000558846904031191
+133;"Intensity volume histogram";"Volume fraction at 0.10 intensity";"case_3";0.000660203034542461
+133;"Intensity volume histogram";"Volume fraction at 0.10 intensity";"case_4";0.000660203034542461
+133;"Intensity volume histogram";"Volume fraction at 0.10 intensity";"case_5";0.000721787743657132
+134;"Intensity volume histogram";"Volume fraction at 0.90 intensity";"case_1";1.1385538741554e-05
+134;"Intensity volume histogram";"Volume fraction at 0.90 intensity";"case_2";1.01871899813769e-05
+134;"Intensity volume histogram";"Volume fraction at 0.90 intensity";"case_3";1.17273942648072e-05
+134;"Intensity volume histogram";"Volume fraction at 0.90 intensity";"case_4";1.17273942648072e-05
+134;"Intensity volume histogram";"Volume fraction at 0.90 intensity";"case_5";7.06757063291527e-05
+135;"Intensity volume histogram";"Intensity at 0.10 volume";"case_1";0.1
+135;"Intensity volume histogram";"Intensity at 0.10 volume";"case_2";0
+135;"Intensity volume histogram";"Intensity at 0.10 volume";"case_3";0.05
+135;"Intensity volume histogram";"Intensity at 0.10 volume";"case_4";0.05
+135;"Intensity volume histogram";"Intensity at 0.10 volume";"case_5";0.0213937500000007
+136;"Intensity volume histogram";"Intensity at 0.90 volume";"case_1";6.95
+136;"Intensity volume histogram";"Intensity at 0.90 volume";"case_2";7.05
+136;"Intensity volume histogram";"Intensity at 0.90 volume";"case_3";7.1
+136;"Intensity volume histogram";"Intensity at 0.90 volume";"case_4";7.1
+136;"Intensity volume histogram";"Intensity at 0.90 volume";"case_5";5.79060625
+137;"Intensity volume histogram";"Difference volume fraction at 0.10 and 0.90 intensity";"case_1";0.000599459869250552
+137;"Intensity volume histogram";"Difference volume fraction at 0.10 and 0.90 intensity";"case_2";0.000571891935185376
+137;"Intensity volume histogram";"Difference volume fraction at 0.10 and 0.90 intensity";"case_3";0.000675793480128717
+137;"Intensity volume histogram";"Difference volume fraction at 0.10 and 0.90 intensity";"case_4";0.000675793480128717
+137;"Intensity volume histogram";"Difference volume fraction at 0.10 and 0.90 intensity";"case_5";0.000624699603160428
+138;"Intensity volume histogram";"Difference intensity at 0.10 and 0.90 volume";"case_1";7.05
+138;"Intensity volume histogram";"Difference intensity at 0.10 and 0.90 volume";"case_2";7.05
+138;"Intensity volume histogram";"Difference intensity at 0.10 and 0.90 volume";"case_3";7.05
+138;"Intensity volume histogram";"Difference intensity at 0.10 and 0.90 volume";"case_4";7.05
+138;"Intensity volume histogram";"Difference intensity at 0.10 and 0.90 volume";"case_5";5.829025
+139;"Intensity volume histogram";"Area under the IVH curve";"case_1";0.00104024931511318
+139;"Intensity volume histogram";"Area under the IVH curve";"case_2";0.00107254248897669
+139;"Intensity volume histogram";"Area under the IVH curve";"case_3";0.00117916293019439
+139;"Intensity volume histogram";"Area under the IVH curve";"case_4";0.00117916293019439
+139;"Intensity volume histogram";"Area under the IVH curve";"case_5";0.0052049456488072
+140;"Co-occurrence 2D-avg";"Joint maximum";"case_2";0.0012604041173667
+140;"Co-occurrence 2D-avg";"Joint maximum";"case_4";0.00159116721539411
+140;"Co-occurrence 2D-avg";"Joint maximum";"case_5";0.00239425229814347
+140;"Co-occurrence 2D-avg";"Joint maximum";"case_1";0.00129590564752809
+140;"Co-occurrence 2D-avg";"Joint maximum";"case_3";0.000637505492379917
+141;"Co-occurrence 2D-avg";"Joint average";"case_2";0.224384692044695
+141;"Co-occurrence 2D-avg";"Joint average";"case_4";0.288364173461463
+141;"Co-occurrence 2D-avg";"Joint average";"case_5";0.172640326991108
+141;"Co-occurrence 2D-avg";"Joint average";"case_1";0.0301006076094959
+141;"Co-occurrence 2D-avg";"Joint average";"case_3";0.0310163661317283
+142;"Co-occurrence 2D-avg";"Joint variance";"case_2";0.238399897938216
+142;"Co-occurrence 2D-avg";"Joint variance";"case_4";0.288553865645421
+142;"Co-occurrence 2D-avg";"Joint variance";"case_5";0.0786755334721651
+142;"Co-occurrence 2D-avg";"Joint variance";"case_1";0.302592689173122
+142;"Co-occurrence 2D-avg";"Joint variance";"case_3";0.359735573846347
+143;"Co-occurrence 2D-avg";"Joint entropy";"case_2";0.00943233377844739
+143;"Co-occurrence 2D-avg";"Joint entropy";"case_4";0.00593167082990163
+143;"Co-occurrence 2D-avg";"Joint entropy";"case_5";0.0156067237122735
+143;"Co-occurrence 2D-avg";"Joint entropy";"case_1";0.0235306566767483
+143;"Co-occurrence 2D-avg";"Joint entropy";"case_3";0.0282878368989749
+144;"Co-occurrence 2D-avg";"Difference average";"case_2";0.00523216235077029
+144;"Co-occurrence 2D-avg";"Difference average";"case_4";0.00425698767386753
+144;"Co-occurrence 2D-avg";"Difference average";"case_5";0.00901310132068363
+144;"Co-occurrence 2D-avg";"Difference average";"case_1";0.0107353399225054
+144;"Co-occurrence 2D-avg";"Difference average";"case_3";0.0216614444719557
+145;"Co-occurrence 2D-avg";"Difference variance";"case_2";0.0369850676766939
+145;"Co-occurrence 2D-avg";"Difference variance";"case_4";0.0424749003312515
+145;"Co-occurrence 2D-avg";"Difference variance";"case_5";0.042689231001236
+145;"Co-occurrence 2D-avg";"Difference variance";"case_1";0.0725590032788202
+145;"Co-occurrence 2D-avg";"Difference variance";"case_3";0.172048435062048
+146;"Co-occurrence 2D-avg";"Difference entropy";"case_2";0.00646923282507708
+146;"Co-occurrence 2D-avg";"Difference entropy";"case_4";0.004773805959039
+146;"Co-occurrence 2D-avg";"Difference entropy";"case_5";0.00411547702175805
+146;"Co-occurrence 2D-avg";"Difference entropy";"case_1";0.0113734876933631
+146;"Co-occurrence 2D-avg";"Difference entropy";"case_3";0.0156746206928711
+147;"Co-occurrence 2D-avg";"Sum average";"case_2";0.44876938408939
+147;"Co-occurrence 2D-avg";"Sum average";"case_4";0.576728346922927
+147;"Co-occurrence 2D-avg";"Sum average";"case_5";0.345280653982216
+147;"Co-occurrence 2D-avg";"Sum average";"case_1";0.0602012152189918
+147;"Co-occurrence 2D-avg";"Sum average";"case_3";0.0620327322634573
+148;"Co-occurrence 2D-avg";"Sum variance";"case_2";0.921118905946916
+148;"Co-occurrence 2D-avg";"Sum variance";"case_4";1.07838651362044
+148;"Co-occurrence 2D-avg";"Sum variance";"case_5";0.279317815036762
+148;"Co-occurrence 2D-avg";"Sum variance";"case_1";1.07726770385537
+148;"Co-occurrence 2D-avg";"Sum variance";"case_3";1.18631287411745
+149;"Co-occurrence 2D-avg";"Sum entropy";"case_2";0.00562494039122774
+149;"Co-occurrence 2D-avg";"Sum entropy";"case_4";0.00444743773169956
+149;"Co-occurrence 2D-avg";"Sum entropy";"case_5";0.00652510473902472
+149;"Co-occurrence 2D-avg";"Sum entropy";"case_1";0.016052858777482
+149;"Co-occurrence 2D-avg";"Sum entropy";"case_3";0.0177313804666315
+150;"Co-occurrence 2D-avg";"Angular second moment";"case_2";0.000448464337311655
+150;"Co-occurrence 2D-avg";"Angular second moment";"case_4";0.000717896045208664
+150;"Co-occurrence 2D-avg";"Angular second moment";"case_5";0.000968510713977018
+150;"Co-occurrence 2D-avg";"Angular second moment";"case_1";0.000663843461910986
+150;"Co-occurrence 2D-avg";"Angular second moment";"case_3";0.000659865175631172
+151;"Co-occurrence 2D-avg";"Contrast";"case_2";0.0580767693332042
+151;"Co-occurrence 2D-avg";"Contrast";"case_4";0.0824588113384008
+151;"Co-occurrence 2D-avg";"Contrast";"case_5";0.0918660523259044
+151;"Co-occurrence 2D-avg";"Contrast";"case_1";0.0959579935908109
+151;"Co-occurrence 2D-avg";"Contrast";"case_3";0.238060625838625
+152;"Co-occurrence 2D-avg";"Dissimilarity";"case_2";0.00523216235077029
+152;"Co-occurrence 2D-avg";"Dissimilarity";"case_4";0.00425698767386755
+152;"Co-occurrence 2D-avg";"Dissimilarity";"case_5";0.00901310132068361
+152;"Co-occurrence 2D-avg";"Dissimilarity";"case_1";0.0107353399225054
+152;"Co-occurrence 2D-avg";"Dissimilarity";"case_3";0.0216614444719557
+153;"Co-occurrence 2D-avg";"Inverse difference";"case_2";0.000556092629844124
+153;"Co-occurrence 2D-avg";"Inverse difference";"case_4";0.00073339671061568
+153;"Co-occurrence 2D-avg";"Inverse difference";"case_5";0.0022638196151043
+153;"Co-occurrence 2D-avg";"Inverse difference";"case_1";0.00144815069087278
+153;"Co-occurrence 2D-avg";"Inverse difference";"case_3";0.00187906940987603
+154;"Co-occurrence 2D-avg";"Inverse difference normalised";"case_2";0.000132141281332598
+154;"Co-occurrence 2D-avg";"Inverse difference normalised";"case_4";9.46455760299558e-05
+154;"Co-occurrence 2D-avg";"Inverse difference normalised";"case_5";0.000232488142200893
+154;"Co-occurrence 2D-avg";"Inverse difference normalised";"case_1";0.000135779717760048
+154;"Co-occurrence 2D-avg";"Inverse difference normalised";"case_3";0.000117278335372334
+155;"Co-occurrence 2D-avg";"Inverse difference moment";"case_2";0.000591423982069922
+155;"Co-occurrence 2D-avg";"Inverse difference moment";"case_4";0.000713902340994188
+155;"Co-occurrence 2D-avg";"Inverse difference moment";"case_5";0.0027279270365393
+155;"Co-occurrence 2D-avg";"Inverse difference moment";"case_1";0.00164092088302759
+155;"Co-occurrence 2D-avg";"Inverse difference moment";"case_3";0.00219678360611663
+156;"Co-occurrence 2D-avg";"Inverse difference moment normalised";"case_2";4.34177391579749e-05
+156;"Co-occurrence 2D-avg";"Inverse difference moment normalised";"case_4";5.43200464534821e-05
+156;"Co-occurrence 2D-avg";"Inverse difference moment normalised";"case_5";6.16266515171438e-05
+156;"Co-occurrence 2D-avg";"Inverse difference moment normalised";"case_1";2.66573878179244e-05
+156;"Co-occurrence 2D-avg";"Inverse difference moment normalised";"case_3";5.60001372878038e-05
+157;"Co-occurrence 2D-avg";"Inverse variance";"case_2";0.0015597371991388
+157;"Co-occurrence 2D-avg";"Inverse variance";"case_4";0.00198774724423483
+157;"Co-occurrence 2D-avg";"Inverse variance";"case_5";0.00075012546093389
+157;"Co-occurrence 2D-avg";"Inverse variance";"case_1";0.0016847376058969
+157;"Co-occurrence 2D-avg";"Inverse variance";"case_3";0.00092386264623604
+158;"Co-occurrence 2D-avg";"Correlation";"case_2";0.00139104492328785
+158;"Co-occurrence 2D-avg";"Correlation";"case_4";0.00141433765623889
+158;"Co-occurrence 2D-avg";"Correlation";"case_5";0.00186581414361154
+158;"Co-occurrence 2D-avg";"Correlation";"case_1";0.000891339796878377
+158;"Co-occurrence 2D-avg";"Correlation";"case_3";0.00148924058940235
+159;"Co-occurrence 2D-avg";"Autocorrelation";"case_2";9.67914100804431
+159;"Co-occurrence 2D-avg";"Autocorrelation";"case_4";12.5577244805194
+159;"Co-occurrence 2D-avg";"Autocorrelation";"case_5";6.76603297033554
+159;"Co-occurrence 2D-avg";"Autocorrelation";"case_1";1.02432258574737
+159;"Co-occurrence 2D-avg";"Autocorrelation";"case_3";1.00003800544905
+160;"Co-occurrence 2D-avg";"Cluster tendency";"case_2";0.921118905946916
+160;"Co-occurrence 2D-avg";"Cluster tendency";"case_4";1.07838651362044
+160;"Co-occurrence 2D-avg";"Cluster tendency";"case_5";0.279317815036762
+160;"Co-occurrence 2D-avg";"Cluster tendency";"case_1";1.07726770385537
+160;"Co-occurrence 2D-avg";"Cluster tendency";"case_3";1.18631287411745
+161;"Co-occurrence 2D-avg";"Cluster shade";"case_2";15.6291183500847
+161;"Co-occurrence 2D-avg";"Cluster shade";"case_4";14.7730736001713
+161;"Co-occurrence 2D-avg";"Cluster shade";"case_5";6.1201668935244
+161;"Co-occurrence 2D-avg";"Cluster shade";"case_1";18.2868866707815
+161;"Co-occurrence 2D-avg";"Cluster shade";"case_3";16.4783697404214
+162;"Co-occurrence 2D-avg";"Cluster prominence";"case_2";1316.26125988009
+162;"Co-occurrence 2D-avg";"Cluster prominence";"case_4";1500.89767361592
+162;"Co-occurrence 2D-avg";"Cluster prominence";"case_5";409.728612775967
+162;"Co-occurrence 2D-avg";"Cluster prominence";"case_1";727.426367501801
+162;"Co-occurrence 2D-avg";"Cluster prominence";"case_3";685.808052235865
+163;"Co-occurrence 2D-avg";"Information correlation 1";"case_2";0.000372857562927201
+163;"Co-occurrence 2D-avg";"Information correlation 1";"case_4";0.000384295268801088
+163;"Co-occurrence 2D-avg";"Information correlation 1";"case_5";0.000232535060306874
+163;"Co-occurrence 2D-avg";"Information correlation 1";"case_1";0.00169860508529223
+163;"Co-occurrence 2D-avg";"Information correlation 1";"case_3";0.000206328076966511
+164;"Co-occurrence 2D-avg";"Information correlation 2";"case_2";0.000735495818418497
+164;"Co-occurrence 2D-avg";"Information correlation 2";"case_4";0.000646200484336135
+164;"Co-occurrence 2D-avg";"Information correlation 2";"case_5";0.000510352847182849
+164;"Co-occurrence 2D-avg";"Information correlation 2";"case_1";0.000871021392647281
+164;"Co-occurrence 2D-avg";"Information correlation 2";"case_3";0.00135458650945094
+165;"Co-occurrence 2D-comb";"Joint maximum";"case_2";0.00127137557691551
+165;"Co-occurrence 2D-comb";"Joint maximum";"case_4";0.00159863622928988
+165;"Co-occurrence 2D-comb";"Joint maximum";"case_5";0.00243148968623887
+165;"Co-occurrence 2D-comb";"Joint maximum";"case_1";0.00129509807789709
+165;"Co-occurrence 2D-comb";"Joint maximum";"case_3";0.000634014522921666
+166;"Co-occurrence 2D-comb";"Joint average";"case_2";0.22430501260148
+166;"Co-occurrence 2D-comb";"Joint average";"case_4";0.288381304682812
+166;"Co-occurrence 2D-comb";"Joint average";"case_5";0.17266036733359
+166;"Co-occurrence 2D-comb";"Joint average";"case_1";0.0300975490083804
+166;"Co-occurrence 2D-comb";"Joint average";"case_3";0.0310188536803597
+167;"Co-occurrence 2D-comb";"Joint variance";"case_2";0.239837460228955
+167;"Co-occurrence 2D-comb";"Joint variance";"case_4";0.289759371206347
+167;"Co-occurrence 2D-comb";"Joint variance";"case_5";0.0786282366892087
+167;"Co-occurrence 2D-comb";"Joint variance";"case_1";0.302243142589088
+167;"Co-occurrence 2D-comb";"Joint variance";"case_3";0.359268072135488
+168;"Co-occurrence 2D-comb";"Joint entropy";"case_2";0.00854038233454264
+168;"Co-occurrence 2D-comb";"Joint entropy";"case_4";0.00605785904657354
+168;"Co-occurrence 2D-comb";"Joint entropy";"case_5";0.0173528764760633
+168;"Co-occurrence 2D-comb";"Joint entropy";"case_1";0.0234388240085621
+168;"Co-occurrence 2D-comb";"Joint entropy";"case_3";0.0294254017403813
+169;"Co-occurrence 2D-comb";"Difference average";"case_2";0.00522530478787779
+169;"Co-occurrence 2D-comb";"Difference average";"case_4";0.00421864178999175
+169;"Co-occurrence 2D-comb";"Difference average";"case_5";0.00900201473086562
+169;"Co-occurrence 2D-comb";"Difference average";"case_1";0.0107398573510476
+169;"Co-occurrence 2D-comb";"Difference average";"case_3";0.0216509574720198
+170;"Co-occurrence 2D-comb";"Difference variance";"case_2";0.0369271173727269
+170;"Co-occurrence 2D-comb";"Difference variance";"case_4";0.0430941704184986
+170;"Co-occurrence 2D-comb";"Difference variance";"case_5";0.0432510208265921
+170;"Co-occurrence 2D-comb";"Difference variance";"case_1";0.0727689558911161
+170;"Co-occurrence 2D-comb";"Difference variance";"case_3";0.171777652106625
+171;"Co-occurrence 2D-comb";"Difference entropy";"case_2";0.00618831857831521
+171;"Co-occurrence 2D-comb";"Difference entropy";"case_4";0.00449339276083682
+171;"Co-occurrence 2D-comb";"Difference entropy";"case_5";0.00469961650869957
+171;"Co-occurrence 2D-comb";"Difference entropy";"case_1";0.0112147811501442
+171;"Co-occurrence 2D-comb";"Difference entropy";"case_3";0.0156516243359648
+172;"Co-occurrence 2D-comb";"Sum average";"case_2";0.448610025202961
+172;"Co-occurrence 2D-comb";"Sum average";"case_4";0.576762609365624
+172;"Co-occurrence 2D-comb";"Sum average";"case_5";0.34532073466718
+172;"Co-occurrence 2D-comb";"Sum average";"case_1";0.0601950980167608
+172;"Co-occurrence 2D-comb";"Sum average";"case_3";0.0620377073607187
+173;"Co-occurrence 2D-comb";"Sum variance";"case_2";0.925820829887864
+173;"Co-occurrence 2D-comb";"Sum variance";"case_4";1.0848223121177
+173;"Co-occurrence 2D-comb";"Sum variance";"case_5";0.277056861297629
+173;"Co-occurrence 2D-comb";"Sum variance";"case_1";1.07697501311875
+173;"Co-occurrence 2D-comb";"Sum variance";"case_3";1.18587443419301
+174;"Co-occurrence 2D-comb";"Sum entropy";"case_2";0.00496899032701348
+174;"Co-occurrence 2D-comb";"Sum entropy";"case_4";0.00461711880646922
+174;"Co-occurrence 2D-comb";"Sum entropy";"case_5";0.00786663112828521
+174;"Co-occurrence 2D-comb";"Sum entropy";"case_1";0.0159572079185464
+174;"Co-occurrence 2D-comb";"Sum entropy";"case_3";0.0174092575084992
+175;"Co-occurrence 2D-comb";"Angular second moment";"case_2";0.000470838149688802
+175;"Co-occurrence 2D-comb";"Angular second moment";"case_4";0.000725101647740833
+175;"Co-occurrence 2D-comb";"Angular second moment";"case_5";0.000986276860347959
+175;"Co-occurrence 2D-comb";"Angular second moment";"case_1";0.000662228441553039
+175;"Co-occurrence 2D-comb";"Angular second moment";"case_3";0.000641790295957438
+176;"Co-occurrence 2D-comb";"Contrast";"case_2";0.0576757429565475
+176;"Co-occurrence 2D-comb";"Contrast";"case_4";0.0810690516220828
+176;"Co-occurrence 2D-comb";"Contrast";"case_5";0.0907627411613183
+176;"Co-occurrence 2D-comb";"Contrast";"case_1";0.095838231373251
+176;"Co-occurrence 2D-comb";"Contrast";"case_3";0.237870483999381
+177;"Co-occurrence 2D-comb";"Dissimilarity";"case_2";0.00522530478787779
+177;"Co-occurrence 2D-comb";"Dissimilarity";"case_4";0.00421864178999173
+177;"Co-occurrence 2D-comb";"Dissimilarity";"case_5";0.00900201473086564
+177;"Co-occurrence 2D-comb";"Dissimilarity";"case_1";0.0107398573510476
+177;"Co-occurrence 2D-comb";"Dissimilarity";"case_3";0.0216509574720198
+178;"Co-occurrence 2D-comb";"Inverse difference";"case_2";0.000554256594667579
+178;"Co-occurrence 2D-comb";"Inverse difference";"case_4";0.000734801472271035
+178;"Co-occurrence 2D-comb";"Inverse difference";"case_5";0.00226045588056277
+178;"Co-occurrence 2D-comb";"Inverse difference";"case_1";0.00144985599354779
+178;"Co-occurrence 2D-comb";"Inverse difference";"case_3";0.00188334536070094
+179;"Co-occurrence 2D-comb";"Inverse difference normalised";"case_2";0.000133277603213833
+179;"Co-occurrence 2D-comb";"Inverse difference normalised";"case_4";9.37766087984127e-05
+179;"Co-occurrence 2D-comb";"Inverse difference normalised";"case_5";0.000232185182524702
+179;"Co-occurrence 2D-comb";"Inverse difference normalised";"case_1";0.000135308281029761
+179;"Co-occurrence 2D-comb";"Inverse difference normalised";"case_3";0.000116661561954351
+180;"Co-occurrence 2D-comb";"Inverse difference moment";"case_2";0.000590954012292072
+180;"Co-occurrence 2D-comb";"Inverse difference moment";"case_4";0.000714171418645943
+180;"Co-occurrence 2D-comb";"Inverse difference moment";"case_5";0.00272890910788711
+180;"Co-occurrence 2D-comb";"Inverse difference moment";"case_1";0.00164173704498973
+180;"Co-occurrence 2D-comb";"Inverse difference moment";"case_3";0.00219717064926164
+181;"Co-occurrence 2D-comb";"Inverse difference moment normalised";"case_2";4.26716154953211e-05
+181;"Co-occurrence 2D-comb";"Inverse difference moment normalised";"case_4";5.35441686366711e-05
+181;"Co-occurrence 2D-comb";"Inverse difference moment normalised";"case_5";6.14086415107795e-05
+181;"Co-occurrence 2D-comb";"Inverse difference moment normalised";"case_1";2.65378084799262e-05
+181;"Co-occurrence 2D-comb";"Inverse difference moment normalised";"case_3";5.50667035375707e-05
+182;"Co-occurrence 2D-comb";"Inverse variance";"case_2";0.00155943556030505
+182;"Co-occurrence 2D-comb";"Inverse variance";"case_4";0.00198930954036518
+182;"Co-occurrence 2D-comb";"Inverse variance";"case_5";0.000752772149245567
+182;"Co-occurrence 2D-comb";"Inverse variance";"case_1";0.00168738601234609
+182;"Co-occurrence 2D-comb";"Inverse variance";"case_3";0.000925626063280874
+183;"Co-occurrence 2D-comb";"Correlation";"case_2";0.00139967232608737
+183;"Co-occurrence 2D-comb";"Correlation";"case_4";0.001439726993875
+183;"Co-occurrence 2D-comb";"Correlation";"case_5";0.0018192169093196
+183;"Co-occurrence 2D-comb";"Correlation";"case_1";0.000881347884255174
+183;"Co-occurrence 2D-comb";"Correlation";"case_3";0.00155101480480052
+184;"Co-occurrence 2D-comb";"Autocorrelation";"case_2";9.67913688492225
+184;"Co-occurrence 2D-comb";"Autocorrelation";"case_4";12.5570635377701
+184;"Co-occurrence 2D-comb";"Autocorrelation";"case_5";6.7651460755061
+184;"Co-occurrence 2D-comb";"Autocorrelation";"case_1";1.02403912522423
+184;"Co-occurrence 2D-comb";"Autocorrelation";"case_3";0.999898389160015
+185;"Co-occurrence 2D-comb";"Cluster tendency";"case_2";0.925820829887866
+185;"Co-occurrence 2D-comb";"Cluster tendency";"case_4";1.08482231211769
+185;"Co-occurrence 2D-comb";"Cluster tendency";"case_5";0.277056861297629
+185;"Co-occurrence 2D-comb";"Cluster tendency";"case_1";1.07697501311875
+185;"Co-occurrence 2D-comb";"Cluster tendency";"case_3";1.18587443419302
+186;"Co-occurrence 2D-comb";"Cluster shade";"case_2";15.976963117606
+186;"Co-occurrence 2D-comb";"Cluster shade";"case_4";14.9920017345988
+186;"Co-occurrence 2D-comb";"Cluster shade";"case_5";6.27812131982907
+186;"Co-occurrence 2D-comb";"Cluster shade";"case_1";18.2896114009164
+186;"Co-occurrence 2D-comb";"Cluster shade";"case_3";16.4578111254673
+187;"Co-occurrence 2D-comb";"Cluster prominence";"case_2";1330.25114550226
+187;"Co-occurrence 2D-comb";"Cluster prominence";"case_4";1517.3850715603
+187;"Co-occurrence 2D-comb";"Cluster prominence";"case_5";420.81915523851
+187;"Co-occurrence 2D-comb";"Cluster prominence";"case_1";727.820998684702
+187;"Co-occurrence 2D-comb";"Cluster prominence";"case_3";686.288921387059
+188;"Co-occurrence 2D-comb";"Information correlation 1";"case_2";0.000186241111446399
+188;"Co-occurrence 2D-comb";"Information correlation 1";"case_4";0.000213389054099501
+188;"Co-occurrence 2D-comb";"Information correlation 1";"case_5";0.000356426478168383
+188;"Co-occurrence 2D-comb";"Information correlation 1";"case_1";0.00177453121485508
+188;"Co-occurrence 2D-comb";"Information correlation 1";"case_3";0.000216302690769127
+189;"Co-occurrence 2D-comb";"Information correlation 2";"case_2";0.000732783215251442
+189;"Co-occurrence 2D-comb";"Information correlation 2";"case_4";0.000732817723120127
+189;"Co-occurrence 2D-comb";"Information correlation 2";"case_5";0.000584474766497167
+189;"Co-occurrence 2D-comb";"Information correlation 2";"case_1";0.000936764756134345
+189;"Co-occurrence 2D-comb";"Information correlation 2";"case_3";0.00119093006976248
+190;"Co-occurrence 3D-avg";"Joint maximum";"case_2";0.0012240492911491
+190;"Co-occurrence 3D-avg";"Joint maximum";"case_4";0.00160185408236544
+190;"Co-occurrence 3D-avg";"Joint maximum";"case_5";0.00225227610529414
+190;"Co-occurrence 3D-avg";"Joint maximum";"case_1";0.000659743058360053
+190;"Co-occurrence 3D-avg";"Joint maximum";"case_3";0.000979421658221358
+191;"Co-occurrence 3D-avg";"Joint average";"case_2";0.230514763093468
+191;"Co-occurrence 3D-avg";"Joint average";"case_4";0.298013366556455
+191;"Co-occurrence 3D-avg";"Joint average";"case_5";0.160165401226395
+191;"Co-occurrence 3D-avg";"Joint average";"case_1";0.0301818049881783
+191;"Co-occurrence 3D-avg";"Joint average";"case_3";0.0335135132232214
+192;"Co-occurrence 3D-avg";"Joint variance";"case_2";0.0802639192713409
+192;"Co-occurrence 3D-avg";"Joint variance";"case_4";0.110679831850666
+192;"Co-occurrence 3D-avg";"Joint variance";"case_5";0.0870087791613587
+192;"Co-occurrence 3D-avg";"Joint variance";"case_1";0.387364955752969
+192;"Co-occurrence 3D-avg";"Joint variance";"case_3";0.429047064534133
+193;"Co-occurrence 3D-avg";"Joint entropy";"case_2";0.0068071416474607
+193;"Co-occurrence 3D-avg";"Joint entropy";"case_4";0.00639696402181991
+193;"Co-occurrence 3D-avg";"Joint entropy";"case_5";0.0222627310323949
+193;"Co-occurrence 3D-avg";"Joint entropy";"case_1";0.0260222241234228
+193;"Co-occurrence 3D-avg";"Joint entropy";"case_3";0.0317456162226014
+194;"Co-occurrence 3D-avg";"Difference average";"case_2";0.00629289023579202
+194;"Co-occurrence 3D-avg";"Difference average";"case_4";0.00425489724225102
+194;"Co-occurrence 3D-avg";"Difference average";"case_5";0.00677280772218001
+194;"Co-occurrence 3D-avg";"Difference average";"case_1";0.0164512953702224
+194;"Co-occurrence 3D-avg";"Difference average";"case_3";0.0228989690108004
+195;"Co-occurrence 3D-avg";"Difference variance";"case_2";0.0371000149775566
+195;"Co-occurrence 3D-avg";"Difference variance";"case_4";0.0325463436103428
+195;"Co-occurrence 3D-avg";"Difference variance";"case_5";0.028015980530918
+195;"Co-occurrence 3D-avg";"Difference variance";"case_1";0.121277296660957
+195;"Co-occurrence 3D-avg";"Difference variance";"case_3";0.177857658841157
+196;"Co-occurrence 3D-avg";"Difference entropy";"case_2";0.00569547756033453
+196;"Co-occurrence 3D-avg";"Difference entropy";"case_4";0.00478442509538717
+196;"Co-occurrence 3D-avg";"Difference entropy";"case_5";0.00435224379985493
+196;"Co-occurrence 3D-avg";"Difference entropy";"case_1";0.0124942322115324
+196;"Co-occurrence 3D-avg";"Difference entropy";"case_3";0.016263604931921
+197;"Co-occurrence 3D-avg";"Sum average";"case_2";0.461029526186934
+197;"Co-occurrence 3D-avg";"Sum average";"case_4";0.596026733112911
+197;"Co-occurrence 3D-avg";"Sum average";"case_5";0.320330802452791
+197;"Co-occurrence 3D-avg";"Sum average";"case_1";0.0603636099763584
+197;"Co-occurrence 3D-avg";"Sum average";"case_3";0.0670270264464428
+198;"Co-occurrence 3D-avg";"Sum variance";"case_2";0.287759755095591
+198;"Co-occurrence 3D-avg";"Sum variance";"case_4";0.399598643940429
+198;"Co-occurrence 3D-avg";"Sum variance";"case_5";0.330380839954691
+198;"Co-occurrence 3D-avg";"Sum variance";"case_1";1.33686020679895
+198;"Co-occurrence 3D-avg";"Sum variance";"case_3";1.46104118977261
+199;"Co-occurrence 3D-avg";"Sum entropy";"case_2";0.00416366379811399
+199;"Co-occurrence 3D-avg";"Sum entropy";"case_4";0.00504336528490357
+199;"Co-occurrence 3D-avg";"Sum entropy";"case_5";0.0092003505091319
+199;"Co-occurrence 3D-avg";"Sum entropy";"case_1";0.0167589780745348
+199;"Co-occurrence 3D-avg";"Sum entropy";"case_3";0.0181240213614519
+200;"Co-occurrence 3D-avg";"Angular second moment";"case_2";0.000403302757780484
+200;"Co-occurrence 3D-avg";"Angular second moment";"case_4";0.000658755366452338
+200;"Co-occurrence 3D-avg";"Angular second moment";"case_5";0.000924043366040247
+200;"Co-occurrence 3D-avg";"Angular second moment";"case_1";0.000441355456115844
+200;"Co-occurrence 3D-avg";"Angular second moment";"case_3";0.000637558987215459
+201;"Co-occurrence 3D-avg";"Contrast";"case_2";0.0514405073916006
+201;"Co-occurrence 3D-avg";"Contrast";"case_4";0.0403275850772272
+201;"Co-occurrence 3D-avg";"Contrast";"case_5";0.0380284729992719
+201;"Co-occurrence 3D-avg";"Contrast";"case_1";0.174890402329992
+201;"Co-occurrence 3D-avg";"Contrast";"case_3";0.250793290619629
+202;"Co-occurrence 3D-avg";"Dissimilarity";"case_2";0.00629289023579195
+202;"Co-occurrence 3D-avg";"Dissimilarity";"case_4";0.00425489724225103
+202;"Co-occurrence 3D-avg";"Dissimilarity";"case_5";0.00677280772217996
+202;"Co-occurrence 3D-avg";"Dissimilarity";"case_1";0.0164512953702224
+202;"Co-occurrence 3D-avg";"Dissimilarity";"case_3";0.0228989690108005
+203;"Co-occurrence 3D-avg";"Inverse difference";"case_2";0.000452693848245872
+203;"Co-occurrence 3D-avg";"Inverse difference";"case_4";0.000601827732777432
+203;"Co-occurrence 3D-avg";"Inverse difference";"case_5";0.00233251791795812
+203;"Co-occurrence 3D-avg";"Inverse difference";"case_1";0.00133344993582026
+203;"Co-occurrence 3D-avg";"Inverse difference";"case_3";0.00205103951069683
+204;"Co-occurrence 3D-avg";"Inverse difference normalised";"case_2";0.000158416593964328
+204;"Co-occurrence 3D-avg";"Inverse difference normalised";"case_4";0.000109416600704682
+204;"Co-occurrence 3D-avg";"Inverse difference normalised";"case_5";0.000192462408217797
+204;"Co-occurrence 3D-avg";"Inverse difference normalised";"case_1";0.000164706868014552
+204;"Co-occurrence 3D-avg";"Inverse difference normalised";"case_3";0.000124895087062976
+205;"Co-occurrence 3D-avg";"Inverse difference moment";"case_2";0.000517382821827039
+205;"Co-occurrence 3D-avg";"Inverse difference moment";"case_4";0.000620991443443331
+205;"Co-occurrence 3D-avg";"Inverse difference moment";"case_5";0.00286203573097901
+205;"Co-occurrence 3D-avg";"Inverse difference moment";"case_1";0.00155942105222375
+205;"Co-occurrence 3D-avg";"Inverse difference moment";"case_3";0.00239653861116488
+206;"Co-occurrence 3D-avg";"Inverse difference moment normalised";"case_2";4.88712922651902e-05
+206;"Co-occurrence 3D-avg";"Inverse difference moment normalised";"case_4";3.2176262750705e-05
+206;"Co-occurrence 3D-avg";"Inverse difference moment normalised";"case_5";2.96927851229145e-05
+206;"Co-occurrence 3D-avg";"Inverse difference moment normalised";"case_1";5.13485556961457e-05
+206;"Co-occurrence 3D-avg";"Inverse difference moment normalised";"case_3";3.80085683925058e-05
+207;"Co-occurrence 3D-avg";"Inverse variance";"case_2";0.00149296489209407
+207;"Co-occurrence 3D-avg";"Inverse variance";"case_4";0.00224345362232612
+207;"Co-occurrence 3D-avg";"Inverse variance";"case_5";0.000660353716217815
+207;"Co-occurrence 3D-avg";"Inverse variance";"case_1";0.00103002511799012
+207;"Co-occurrence 3D-avg";"Inverse variance";"case_3";0.00104286508090056
+208;"Co-occurrence 3D-avg";"Correlation";"case_2";0.000858733213134344
+208;"Co-occurrence 3D-avg";"Correlation";"case_4";0.000637288136010528
+208;"Co-occurrence 3D-avg";"Correlation";"case_5";0.00325096922034073
+208;"Co-occurrence 3D-avg";"Correlation";"case_1";0.00137947045487718
+208;"Co-occurrence 3D-avg";"Correlation";"case_3";0.000593728276847017
+209;"Co-occurrence 3D-avg";"Autocorrelation";"case_2";9.9387308645483
+209;"Co-occurrence 3D-avg";"Autocorrelation";"case_4";12.9725068608541
+209;"Co-occurrence 3D-avg";"Autocorrelation";"case_5";6.12558971038535
+209;"Co-occurrence 3D-avg";"Autocorrelation";"case_1";1.00633386001836
+209;"Co-occurrence 3D-avg";"Autocorrelation";"case_3";1.12029110536273
+210;"Co-occurrence 3D-avg";"Cluster tendency";"case_2";0.287759755095591
+210;"Co-occurrence 3D-avg";"Cluster tendency";"case_4";0.399598643940428
+210;"Co-occurrence 3D-avg";"Cluster tendency";"case_5";0.330380839954691
+210;"Co-occurrence 3D-avg";"Cluster tendency";"case_1";1.33686020679895
+210;"Co-occurrence 3D-avg";"Cluster tendency";"case_3";1.46104118977261
+211;"Co-occurrence 3D-avg";"Cluster shade";"case_2";10.3562578281787
+211;"Co-occurrence 3D-avg";"Cluster shade";"case_4";21.1003644025102
+211;"Co-occurrence 3D-avg";"Cluster shade";"case_5";7.30987178856699
+211;"Co-occurrence 3D-avg";"Cluster shade";"case_1";25.3528762950069
+211;"Co-occurrence 3D-avg";"Cluster shade";"case_3";26.8994396127651
+212;"Co-occurrence 3D-avg";"Cluster prominence";"case_2";572.088703922833
+212;"Co-occurrence 3D-avg";"Cluster prominence";"case_4";1045.82354074827
+212;"Co-occurrence 3D-avg";"Cluster prominence";"case_5";138.016238157747
+212;"Co-occurrence 3D-avg";"Cluster prominence";"case_1";784.357215306374
+212;"Co-occurrence 3D-avg";"Cluster prominence";"case_3";817.764121372999
+213;"Co-occurrence 3D-avg";"Information correlation 1";"case_2";0.000154642240802638
+213;"Co-occurrence 3D-avg";"Information correlation 1";"case_4";0.000174132612630178
+213;"Co-occurrence 3D-avg";"Information correlation 1";"case_5";0.000921788837212138
+213;"Co-occurrence 3D-avg";"Information correlation 1";"case_1";0.0010037876375332
+213;"Co-occurrence 3D-avg";"Information correlation 1";"case_3";0.000431648138796201
+214;"Co-occurrence 3D-avg";"Information correlation 2";"case_2";0.000695726396506241
+214;"Co-occurrence 3D-avg";"Information correlation 2";"case_4";0.000530666459956108
+214;"Co-occurrence 3D-avg";"Information correlation 2";"case_5";0.00084516044987708
+214;"Co-occurrence 3D-avg";"Information correlation 2";"case_1";0.0010408089887806
+214;"Co-occurrence 3D-avg";"Information correlation 2";"case_3";0.000661104178811445
+215;"Co-occurrence 3D-comb";"Joint maximum";"case_2";0.00122542306353976
+215;"Co-occurrence 3D-comb";"Joint maximum";"case_4";0.00159874923248496
+215;"Co-occurrence 3D-comb";"Joint maximum";"case_5";0.00225786522138832
+215;"Co-occurrence 3D-comb";"Joint maximum";"case_1";0.000664760544865553
+215;"Co-occurrence 3D-comb";"Joint maximum";"case_3";0.000981981426669379
+216;"Co-occurrence 3D-comb";"Joint average";"case_2";0.230499798867348
+216;"Co-occurrence 3D-comb";"Joint average";"case_4";0.298012088452919
+216;"Co-occurrence 3D-comb";"Joint average";"case_5";0.160177462736052
+216;"Co-occurrence 3D-comb";"Joint average";"case_1";0.0301956029338022
+216;"Co-occurrence 3D-comb";"Joint average";"case_3";0.0335210879500007
+217;"Co-occurrence 3D-comb";"Joint variance";"case_2";0.0800008010322792
+217;"Co-occurrence 3D-comb";"Joint variance";"case_4";0.11077547829939
+217;"Co-occurrence 3D-comb";"Joint variance";"case_5";0.087051586435694
+217;"Co-occurrence 3D-comb";"Joint variance";"case_1";0.387306726313109
+217;"Co-occurrence 3D-comb";"Joint variance";"case_3";0.429107454439725
+218;"Co-occurrence 3D-comb";"Joint entropy";"case_2";0.00653237416241628
+218;"Co-occurrence 3D-comb";"Joint entropy";"case_4";0.00654632266039541
+218;"Co-occurrence 3D-comb";"Joint entropy";"case_5";0.02249205256823
+218;"Co-occurrence 3D-comb";"Joint entropy";"case_1";0.0259656930066356
+218;"Co-occurrence 3D-comb";"Joint entropy";"case_3";0.0317040028212487
+219;"Co-occurrence 3D-comb";"Difference average";"case_2";0.00630813255026369
+219;"Co-occurrence 3D-comb";"Difference average";"case_4";0.00425233625016661
+219;"Co-occurrence 3D-comb";"Difference average";"case_5";0.00675267907179331
+219;"Co-occurrence 3D-comb";"Difference average";"case_1";0.016329678594068
+219;"Co-occurrence 3D-comb";"Difference average";"case_3";0.0228748027284321
+220;"Co-occurrence 3D-comb";"Difference variance";"case_2";0.0372002819970898
+220;"Co-occurrence 3D-comb";"Difference variance";"case_4";0.0327264390978405
+220;"Co-occurrence 3D-comb";"Difference variance";"case_5";0.0281119922048845
+220;"Co-occurrence 3D-comb";"Difference variance";"case_1";0.123651691216266
+220;"Co-occurrence 3D-comb";"Difference variance";"case_3";0.1787351188481
+221;"Co-occurrence 3D-comb";"Difference entropy";"case_2";0.00562057261765685
+221;"Co-occurrence 3D-comb";"Difference entropy";"case_4";0.00476271385857652
+221;"Co-occurrence 3D-comb";"Difference entropy";"case_5";0.00440973390927013
+221;"Co-occurrence 3D-comb";"Difference entropy";"case_1";0.0125360291623145
+221;"Co-occurrence 3D-comb";"Difference entropy";"case_3";0.0162693799544171
+222;"Co-occurrence 3D-comb";"Sum average";"case_2";0.460999597734694
+222;"Co-occurrence 3D-comb";"Sum average";"case_4";0.596024176905836
+222;"Co-occurrence 3D-comb";"Sum average";"case_5";0.320354925472108
+222;"Co-occurrence 3D-comb";"Sum average";"case_1";0.0603912058676045
+222;"Co-occurrence 3D-comb";"Sum average";"case_3";0.0670421759000025
+223;"Co-occurrence 3D-comb";"Sum variance";"case_2";0.287456532535874
+223;"Co-occurrence 3D-comb";"Sum variance";"case_4";0.400504208893886
+223;"Co-occurrence 3D-comb";"Sum variance";"case_5";0.330469167085841
+223;"Co-occurrence 3D-comb";"Sum variance";"case_1";1.33889616382516
+223;"Co-occurrence 3D-comb";"Sum variance";"case_3";1.46191984454176
+224;"Co-occurrence 3D-comb";"Sum entropy";"case_2";0.00412098257169125
+224;"Co-occurrence 3D-comb";"Sum entropy";"case_4";0.00504112148915517
+224;"Co-occurrence 3D-comb";"Sum entropy";"case_5";0.0092095870680649
+224;"Co-occurrence 3D-comb";"Sum entropy";"case_1";0.0168653483253867
+224;"Co-occurrence 3D-comb";"Sum entropy";"case_3";0.0180977803441573
+225;"Co-occurrence 3D-comb";"Angular second moment";"case_2";0.000400073006108326
+225;"Co-occurrence 3D-comb";"Angular second moment";"case_4";0.000659620457920078
+225;"Co-occurrence 3D-comb";"Angular second moment";"case_5";0.000921491189080549
+225;"Co-occurrence 3D-comb";"Angular second moment";"case_1";0.00041440739003919
+225;"Co-occurrence 3D-comb";"Angular second moment";"case_3";0.000633193841028976
+226;"Co-occurrence 3D-comb";"Contrast";"case_2";0.0509276198632553
+226;"Co-occurrence 3D-comb";"Contrast";"case_4";0.0400641635478987
+226;"Co-occurrence 3D-comb";"Contrast";"case_5";0.0380254047953017
+226;"Co-occurrence 3D-comb";"Contrast";"case_1";0.173037575596621
+226;"Co-occurrence 3D-comb";"Contrast";"case_3";0.250230957970605
+227;"Co-occurrence 3D-comb";"Dissimilarity";"case_2";0.00630813255026367
+227;"Co-occurrence 3D-comb";"Dissimilarity";"case_4";0.00425233625016656
+227;"Co-occurrence 3D-comb";"Dissimilarity";"case_5";0.00675267907179332
+227;"Co-occurrence 3D-comb";"Dissimilarity";"case_1";0.016329678594068
+227;"Co-occurrence 3D-comb";"Dissimilarity";"case_3";0.0228748027284321
+228;"Co-occurrence 3D-comb";"Inverse difference";"case_2";0.000451421840705357
+228;"Co-occurrence 3D-comb";"Inverse difference";"case_4";0.000601480405429533
+228;"Co-occurrence 3D-comb";"Inverse difference";"case_5";0.00233210833369528
+228;"Co-occurrence 3D-comb";"Inverse difference";"case_1";0.00132803083518998
+228;"Co-occurrence 3D-comb";"Inverse difference";"case_3";0.00205214039218183
+229;"Co-occurrence 3D-comb";"Inverse difference normalised";"case_2";0.000158847738308004
+229;"Co-occurrence 3D-comb";"Inverse difference normalised";"case_4";0.00010971762408985
+229;"Co-occurrence 3D-comb";"Inverse difference normalised";"case_5";0.000192540527558016
+229;"Co-occurrence 3D-comb";"Inverse difference normalised";"case_1";0.000164937198940712
+229;"Co-occurrence 3D-comb";"Inverse difference normalised";"case_3";0.000125060205354338
+230;"Co-occurrence 3D-comb";"Inverse difference moment";"case_2";0.000517532336519888
+230;"Co-occurrence 3D-comb";"Inverse difference moment";"case_4";0.00061923059932148
+230;"Co-occurrence 3D-comb";"Inverse difference moment";"case_5";0.00286072188789406
+230;"Co-occurrence 3D-comb";"Inverse difference moment";"case_1";0.00156691571325876
+230;"Co-occurrence 3D-comb";"Inverse difference moment";"case_3";0.00239821094040221
+231;"Co-occurrence 3D-comb";"Inverse difference moment normalised";"case_2";4.86166955995571e-05
+231;"Co-occurrence 3D-comb";"Inverse difference moment normalised";"case_4";3.21873091803204e-05
+231;"Co-occurrence 3D-comb";"Inverse difference moment normalised";"case_5";2.97110371719256e-05
+231;"Co-occurrence 3D-comb";"Inverse difference moment normalised";"case_1";5.06162920436648e-05
+231;"Co-occurrence 3D-comb";"Inverse difference moment normalised";"case_3";3.79627117800208e-05
+232;"Co-occurrence 3D-comb";"Inverse variance";"case_2";0.00150096261040023
+232;"Co-occurrence 3D-comb";"Inverse variance";"case_4";0.00224663570935234
+232;"Co-occurrence 3D-comb";"Inverse variance";"case_5";0.000666729072626937
+232;"Co-occurrence 3D-comb";"Inverse variance";"case_1";0.00106033060016366
+232;"Co-occurrence 3D-comb";"Inverse variance";"case_3";0.00104030935173294
+233;"Co-occurrence 3D-comb";"Correlation";"case_2";0.000705906986022486
+233;"Co-occurrence 3D-comb";"Correlation";"case_4";0.000609773941081621
+233;"Co-occurrence 3D-comb";"Correlation";"case_5";0.00321799788022951
+233;"Co-occurrence 3D-comb";"Correlation";"case_1";0.000922987866788177
+233;"Co-occurrence 3D-comb";"Correlation";"case_3";0.000573806791496795
+234;"Co-occurrence 3D-comb";"Autocorrelation";"case_2";9.93828245172914
+234;"Co-occurrence 3D-comb";"Autocorrelation";"case_4";12.9724482634697
+234;"Co-occurrence 3D-comb";"Autocorrelation";"case_5";6.1260456956767
+234;"Co-occurrence 3D-comb";"Autocorrelation";"case_1";1.00592048961046
+234;"Co-occurrence 3D-comb";"Autocorrelation";"case_3";1.12030735102989
+235;"Co-occurrence 3D-comb";"Cluster tendency";"case_2";0.287456532535872
+235;"Co-occurrence 3D-comb";"Cluster tendency";"case_4";0.400504208893891
+235;"Co-occurrence 3D-comb";"Cluster tendency";"case_5";0.330469167085841
+235;"Co-occurrence 3D-comb";"Cluster tendency";"case_1";1.33889616382516
+235;"Co-occurrence 3D-comb";"Cluster tendency";"case_3";1.46191984454175
+236;"Co-occurrence 3D-comb";"Cluster shade";"case_2";10.528838334548
+236;"Co-occurrence 3D-comb";"Cluster shade";"case_4";21.167998648393
+236;"Co-occurrence 3D-comb";"Cluster shade";"case_5";7.32343622271092
+236;"Co-occurrence 3D-comb";"Cluster shade";"case_1";25.4097692273296
+236;"Co-occurrence 3D-comb";"Cluster shade";"case_3";26.9416280799786
+237;"Co-occurrence 3D-comb";"Cluster prominence";"case_2";582.594122270153
+237;"Co-occurrence 3D-comb";"Cluster prominence";"case_4";1049.15946554315
+237;"Co-occurrence 3D-comb";"Cluster prominence";"case_5";138.552116157803
+237;"Co-occurrence 3D-comb";"Cluster prominence";"case_1";787.117068294095
+237;"Co-occurrence 3D-comb";"Cluster prominence";"case_3";819.444658394017
+238;"Co-occurrence 3D-comb";"Information correlation 1";"case_2";0.000237485923597865
+238;"Co-occurrence 3D-comb";"Information correlation 1";"case_4";0.000222570511063158
+238;"Co-occurrence 3D-comb";"Information correlation 1";"case_5";0.00098481081866125
+238;"Co-occurrence 3D-comb";"Information correlation 1";"case_1";0.000872692114939354
+238;"Co-occurrence 3D-comb";"Information correlation 1";"case_3";0.000387724050016665
+239;"Co-occurrence 3D-comb";"Information correlation 2";"case_2";0.000690273839259531
+239;"Co-occurrence 3D-comb";"Information correlation 2";"case_4";0.000513915641499185
+239;"Co-occurrence 3D-comb";"Information correlation 2";"case_5";0.000937835617524602
+239;"Co-occurrence 3D-comb";"Information correlation 2";"case_1";0.00109200235133488
+239;"Co-occurrence 3D-comb";"Information correlation 2";"case_3";0.000705908709732867
+240;"Run length 2D-avg";"Short runs emphasis";"case_2";0.000498163615008601
+240;"Run length 2D-avg";"Short runs emphasis";"case_4";0.000505062846317239
+240;"Run length 2D-avg";"Short runs emphasis";"case_5";0.00165746589404431
+240;"Run length 2D-avg";"Short runs emphasis";"case_1";0.00161227820488232
+240;"Run length 2D-avg";"Short runs emphasis";"case_3";0.00178011014625591
+241;"Run length 2D-avg";"Long runs emphasis";"case_2";0.0346211292749481
+241;"Run length 2D-avg";"Long runs emphasis";"case_4";0.0559110302166845
+241;"Run length 2D-avg";"Long runs emphasis";"case_5";0.038386677083121
+241;"Run length 2D-avg";"Long runs emphasis";"case_1";0.106096584094904
+241;"Run length 2D-avg";"Long runs emphasis";"case_3";0.0220007571117194
+242;"Run length 2D-avg";"Low grey level run emphasis";"case_2";0.000498126680697162
+242;"Run length 2D-avg";"Low grey level run emphasis";"case_4";0.000742971134172027
+242;"Run length 2D-avg";"Low grey level run emphasis";"case_5";0.000655062916463884
+242;"Run length 2D-avg";"Low grey level run emphasis";"case_1";0.000258182192446325
+242;"Run length 2D-avg";"Low grey level run emphasis";"case_3";0.000340006272635076
+243;"Run length 2D-avg";"High grey level run emphasis";"case_2";9.70723877523354
+243;"Run length 2D-avg";"High grey level run emphasis";"case_4";12.5554797365882
+243;"Run length 2D-avg";"High grey level run emphasis";"case_5";6.9824599929375
+243;"Run length 2D-avg";"High grey level run emphasis";"case_1";1.37828420010432
+243;"Run length 2D-avg";"High grey level run emphasis";"case_3";1.59534155802571
+244;"Run length 2D-avg";"Short run low grey level emphasis";"case_2";0.000470775278793599
+244;"Run length 2D-avg";"Short run low grey level emphasis";"case_4";0.000687524564009947
+244;"Run length 2D-avg";"Short run low grey level emphasis";"case_5";0.00062573338417926
+244;"Run length 2D-avg";"Short run low grey level emphasis";"case_1";0.000264726817878691
+244;"Run length 2D-avg";"Short run low grey level emphasis";"case_3";0.000335882902073225
+245;"Run length 2D-avg";"Short run high grey level emphasis";"case_2";7.3663184757104
+245;"Run length 2D-avg";"Short run high grey level emphasis";"case_4";9.35807390367266
+245;"Run length 2D-avg";"Short run high grey level emphasis";"case_5";6.6232506271404
+245;"Run length 2D-avg";"Short run high grey level emphasis";"case_1";1.09869873585227
+245;"Run length 2D-avg";"Short run high grey level emphasis";"case_3";0.59315061442002
+246;"Run length 2D-avg";"Long run low grey level emphasis";"case_2";0.000755159203360091
+246;"Run length 2D-avg";"Long run low grey level emphasis";"case_4";0.00115525036551927
+246;"Run length 2D-avg";"Long run low grey level emphasis";"case_5";0.000910954764909403
+246;"Run length 2D-avg";"Long run low grey level emphasis";"case_1";0.000330516860559432
+246;"Run length 2D-avg";"Long run low grey level emphasis";"case_3";0.000316437080499474
+247;"Run length 2D-avg";"Long run high grey level emphasis";"case_2";20.527986012179
+247;"Run length 2D-avg";"Long run high grey level emphasis";"case_4";25.9657160591044
+247;"Run length 2D-avg";"Long run high grey level emphasis";"case_5";3.01758572067836
+247;"Run length 2D-avg";"Long run high grey level emphasis";"case_1";54.0923696195761
+247;"Run length 2D-avg";"Long run high grey level emphasis";"case_3";12.0912784093891
+248;"Run length 2D-avg";"Grey level non-uniformity";"case_2";0.123693287968541
+248;"Run length 2D-avg";"Grey level non-uniformity";"case_4";0.0963567775617058
+248;"Run length 2D-avg";"Grey level non-uniformity";"case_5";0.627297640591814
+248;"Run length 2D-avg";"Grey level non-uniformity";"case_1";2.14046564089242
+248;"Run length 2D-avg";"Grey level non-uniformity";"case_3";0.215027057168695
+249;"Run length 2D-avg";"Grey level non-uniformity normalised";"case_2";0.000824439632895477
+249;"Run length 2D-avg";"Grey level non-uniformity normalised";"case_4";0.000650381656721169
+249;"Run length 2D-avg";"Grey level non-uniformity normalised";"case_5";0.000608189958384632
+249;"Run length 2D-avg";"Grey level non-uniformity normalised";"case_1";0.00162826508266756
+249;"Run length 2D-avg";"Grey level non-uniformity normalised";"case_3";0.00176495394604108
+250;"Run length 2D-avg";"Run length non-uniformity";"case_2";2.35859463245188
+250;"Run length 2D-avg";"Run length non-uniformity";"case_4";1.86700906378416
+250;"Run length 2D-avg";"Run length non-uniformity";"case_5";1.38394479374193
+250;"Run length 2D-avg";"Run length non-uniformity";"case_1";12.6750403489068
+250;"Run length 2D-avg";"Run length non-uniformity";"case_3";4.84748770994256
+251;"Run length 2D-avg";"Run length non-uniformity normalised";"case_2";0.000687087468976083
+251;"Run length 2D-avg";"Run length non-uniformity normalised";"case_4";0.000700877946689515
+251;"Run length 2D-avg";"Run length non-uniformity normalised";"case_5";0.00252263136881302
+251;"Run length 2D-avg";"Run length non-uniformity normalised";"case_1";0.00181676634059254
+251;"Run length 2D-avg";"Run length non-uniformity normalised";"case_3";0.00240187569657588
+252;"Run length 2D-avg";"Run percentage";"case_2";0.00127792862081315
+252;"Run length 2D-avg";"Run percentage";"case_4";0.00160137951616224
+252;"Run length 2D-avg";"Run percentage";"case_5";0.00297992494816569
+252;"Run length 2D-avg";"Run percentage";"case_1";0.00254265809806422
+252;"Run length 2D-avg";"Run percentage";"case_3";0.0016162970197349
+253;"Run length 2D-avg";"Grey level variance";"case_2";0.214631747699261
+253;"Run length 2D-avg";"Grey level variance";"case_4";0.277054116437384
+253;"Run length 2D-avg";"Grey level variance";"case_5";0.106812718456071
+253;"Run length 2D-avg";"Grey level variance";"case_1";0.501881518674872
+253;"Run length 2D-avg";"Grey level variance";"case_3";0.554629841854407
+254;"Run length 2D-avg";"Run length variance";"case_2";0.0230800613372807
+254;"Run length 2D-avg";"Run length variance";"case_4";0.039041561639211
+254;"Run length 2D-avg";"Run length variance";"case_5";0.0209565384129668
+254;"Run length 2D-avg";"Run length variance";"case_1";0.0575765376378002
+254;"Run length 2D-avg";"Run length variance";"case_3";0.00659984365093311
+255;"Run length 2D-avg";"Run entropy";"case_2";0.010270735754193
+255;"Run length 2D-avg";"Run entropy";"case_4";0.00772555773761203
+255;"Run length 2D-avg";"Run entropy";"case_5";0.00594038787539053
+255;"Run length 2D-avg";"Run entropy";"case_1";0.00951019895811669
+255;"Run length 2D-avg";"Run entropy";"case_3";0.0119385888197759
+256;"Run length 2D-comb";"Short runs emphasis";"case_2";0.000490274752152475
+256;"Run length 2D-comb";"Short runs emphasis";"case_4";0.000500973421804818
+256;"Run length 2D-comb";"Short runs emphasis";"case_5";0.00166419280757614
+256;"Run length 2D-comb";"Short runs emphasis";"case_1";0.00160166620939684
+256;"Run length 2D-comb";"Short runs emphasis";"case_3";0.00175574004458091
+257;"Run length 2D-comb";"Long runs emphasis";"case_2";0.0343990834753158
+257;"Run length 2D-comb";"Long runs emphasis";"case_4";0.0555499509398192
+257;"Run length 2D-comb";"Long runs emphasis";"case_5";0.0383067811965198
+257;"Run length 2D-comb";"Long runs emphasis";"case_1";0.101980003608796
+257;"Run length 2D-comb";"Long runs emphasis";"case_3";0.0213306741595898
+258;"Run length 2D-comb";"Low grey level run emphasis";"case_2";0.000497200002156002
+258;"Run length 2D-comb";"Low grey level run emphasis";"case_4";0.000742154565424838
+258;"Run length 2D-comb";"Low grey level run emphasis";"case_5";0.000654853380447668
+258;"Run length 2D-comb";"Low grey level run emphasis";"case_1";0.000256401155705603
+258;"Run length 2D-comb";"Low grey level run emphasis";"case_3";0.000339591559920294
+259;"Run length 2D-comb";"High grey level run emphasis";"case_2";9.70592718948583
+259;"Run length 2D-comb";"High grey level run emphasis";"case_4";12.5556597531686
+259;"Run length 2D-comb";"High grey level run emphasis";"case_5";6.98148247524196
+259;"Run length 2D-comb";"High grey level run emphasis";"case_1";1.37527701761653
+259;"Run length 2D-comb";"High grey level run emphasis";"case_3";1.59375645364391
+260;"Run length 2D-comb";"Short run low grey level emphasis";"case_2";0.000469402471129005
+260;"Run length 2D-comb";"Short run low grey level emphasis";"case_4";0.000686465351033898
+260;"Run length 2D-comb";"Short run low grey level emphasis";"case_5";0.000625879398723768
+260;"Run length 2D-comb";"Short run low grey level emphasis";"case_1";0.000263664026632155
+260;"Run length 2D-comb";"Short run low grey level emphasis";"case_3";0.000334840742243323
+261;"Run length 2D-comb";"Short run high grey level emphasis";"case_2";7.38647842463909
+261;"Run length 2D-comb";"Short run high grey level emphasis";"case_4";9.37900430169427
+261;"Run length 2D-comb";"Short run high grey level emphasis";"case_5";6.63211763785148
+261;"Run length 2D-comb";"Short run high grey level emphasis";"case_1";1.11634339238853
+261;"Run length 2D-comb";"Short run high grey level emphasis";"case_3";0.600181569018196
+262;"Run length 2D-comb";"Long run low grey level emphasis";"case_2";0.000751328618503067
+262;"Run length 2D-comb";"Long run low grey level emphasis";"case_4";0.00115215502481683
+262;"Run length 2D-comb";"Long run low grey level emphasis";"case_5";0.00091046661785166
+262;"Run length 2D-comb";"Long run low grey level emphasis";"case_1";0.000324246013847283
+262;"Run length 2D-comb";"Long run low grey level emphasis";"case_3";0.000318676853507947
+263;"Run length 2D-comb";"Long run high grey level emphasis";"case_2";20.0859078637894
+263;"Run length 2D-comb";"Long run high grey level emphasis";"case_4";25.7682095552048
+263;"Run length 2D-comb";"Long run high grey level emphasis";"case_5";3.01821572146641
+263;"Run length 2D-comb";"Long run high grey level emphasis";"case_1";52.5822775675678
+263;"Run length 2D-comb";"Long run high grey level emphasis";"case_3";11.795508913243
+264;"Run length 2D-comb";"Grey level non-uniformity";"case_2";0.493474070507327
+264;"Run length 2D-comb";"Grey level non-uniformity";"case_4";0.385715442848175
+264;"Run length 2D-comb";"Grey level non-uniformity";"case_5";2.50910058384133
+264;"Run length 2D-comb";"Grey level non-uniformity";"case_1";8.56169462951938
+264;"Run length 2D-comb";"Grey level non-uniformity";"case_3";0.85995027474512
+265;"Run length 2D-comb";"Grey level non-uniformity normalised";"case_2";0.000821296364159942
+265;"Run length 2D-comb";"Grey level non-uniformity normalised";"case_4";0.000650410949221073
+265;"Run length 2D-comb";"Grey level non-uniformity normalised";"case_5";0.00060982548344606
+265;"Run length 2D-comb";"Grey level non-uniformity normalised";"case_1";0.00162386472637349
+265;"Run length 2D-comb";"Grey level non-uniformity normalised";"case_3";0.00176472980000289
+266;"Run length 2D-comb";"Run length non-uniformity";"case_2";9.44303948860147
+266;"Run length 2D-comb";"Run length non-uniformity";"case_4";7.49028591622359
+266;"Run length 2D-comb";"Run length non-uniformity";"case_5";5.53765019231538
+266;"Run length 2D-comb";"Run length non-uniformity";"case_1";51.1126863761601
+266;"Run length 2D-comb";"Run length non-uniformity";"case_3";19.4075031070719
+267;"Run length 2D-comb";"Run length non-uniformity normalised";"case_2";0.000696523810326555
+267;"Run length 2D-comb";"Run length non-uniformity normalised";"case_4";0.000684479153409007
+267;"Run length 2D-comb";"Run length non-uniformity normalised";"case_5";0.00251957751227034
+267;"Run length 2D-comb";"Run length non-uniformity normalised";"case_1";0.00183672908613453
+267;"Run length 2D-comb";"Run length non-uniformity normalised";"case_3";0.00240149288011692
+268;"Run length 2D-comb";"Run percentage";"case_2";0.00127792862081313
+268;"Run length 2D-comb";"Run percentage";"case_4";0.00160137951616225
+268;"Run length 2D-comb";"Run percentage";"case_5";0.00297992494816569
+268;"Run length 2D-comb";"Run percentage";"case_1";0.00254265809806422
+268;"Run length 2D-comb";"Run percentage";"case_3";0.00161629701973491
+269;"Run length 2D-comb";"Grey level variance";"case_2";0.214584520339163
+269;"Run length 2D-comb";"Grey level variance";"case_4";0.277587314721475
+269;"Run length 2D-comb";"Grey level variance";"case_5";0.106709695177701
+269;"Run length 2D-comb";"Grey level variance";"case_1";0.500375700968809
+269;"Run length 2D-comb";"Grey level variance";"case_3";0.554001802751523
+270;"Run length 2D-comb";"Run length variance";"case_2";0.0228389092915886
+270;"Run length 2D-comb";"Run length variance";"case_4";0.0387435091920078
+270;"Run length 2D-comb";"Run length variance";"case_5";0.0209313741584468
+270;"Run length 2D-comb";"Run length variance";"case_1";0.0561458651778201
+270;"Run length 2D-comb";"Run length variance";"case_3";0.00648639198307455
+271;"Run length 2D-comb";"Run entropy";"case_2";0.00997235954931988
+271;"Run length 2D-comb";"Run entropy";"case_4";0.00779480249807913
+271;"Run length 2D-comb";"Run entropy";"case_5";0.00591076164288
+271;"Run length 2D-comb";"Run entropy";"case_1";0.00987558022115058
+271;"Run length 2D-comb";"Run entropy";"case_3";0.0117395990702479
+272;"Run length 3D-avg";"Short runs emphasis";"case_2";0.000382303001309664
+272;"Run length 3D-avg";"Short runs emphasis";"case_4";0.00044628000051512
+272;"Run length 3D-avg";"Short runs emphasis";"case_5";0.00171843419777489
+272;"Run length 3D-avg";"Short runs emphasis";"case_1";0.00117377283208425
+272;"Run length 3D-avg";"Short runs emphasis";"case_3";0.00175601006411007
+273;"Run length 3D-avg";"Long runs emphasis";"case_2";0.0243508032831967
+273;"Run length 3D-avg";"Long runs emphasis";"case_4";0.0490189669116607
+273;"Run length 3D-avg";"Long runs emphasis";"case_5";0.037365955462127
+273;"Run length 3D-avg";"Long runs emphasis";"case_1";0.0465342832308929
+273;"Run length 3D-avg";"Long runs emphasis";"case_3";0.0254110958829841
+274;"Run length 3D-avg";"Low grey level run emphasis";"case_2";0.000512334452156293
+274;"Run length 3D-avg";"Low grey level run emphasis";"case_4";0.000665790787454676
+274;"Run length 3D-avg";"Low grey level run emphasis";"case_5";0.000546255548893135
+274;"Run length 3D-avg";"Low grey level run emphasis";"case_1";0.000312830174260197
+274;"Run length 3D-avg";"Low grey level run emphasis";"case_3";0.000360913135514345
+275;"Run length 3D-avg";"High grey level run emphasis";"case_2";10.0501278152981
+275;"Run length 3D-avg";"High grey level run emphasis";"case_4";13.1106018792537
+275;"Run length 3D-avg";"High grey level run emphasis";"case_5";6.6104986359259
+275;"Run length 3D-avg";"High grey level run emphasis";"case_1";1.25771349532461
+275;"Run length 3D-avg";"High grey level run emphasis";"case_3";1.7371063433586
+276;"Run length 3D-avg";"Short run low grey level emphasis";"case_2";0.000487213091230211
+276;"Run length 3D-avg";"Short run low grey level emphasis";"case_4";0.00062867282833755
+276;"Run length 3D-avg";"Short run low grey level emphasis";"case_5";0.000520421661046038
+276;"Run length 3D-avg";"Short run low grey level emphasis";"case_1";0.000306985092832369
+276;"Run length 3D-avg";"Short run low grey level emphasis";"case_3";0.000354217773558329
+277;"Run length 3D-avg";"Short run high grey level emphasis";"case_2";7.95120786400896
+277;"Run length 3D-avg";"Short run high grey level emphasis";"case_4";9.8752675992868
+277;"Run length 3D-avg";"Short run high grey level emphasis";"case_5";6.28613805218607
+277;"Run length 3D-avg";"Short run high grey level emphasis";"case_1";0.745053207127705
+277;"Run length 3D-avg";"Short run high grey level emphasis";"case_3";0.739736112019807
+278;"Run length 3D-avg";"Long run low grey level emphasis";"case_2";0.000691817723319202
+278;"Run length 3D-avg";"Long run low grey level emphasis";"case_4";0.00100838884653118
+278;"Run length 3D-avg";"Long run low grey level emphasis";"case_5";0.00076536967458548
+278;"Run length 3D-avg";"Long run low grey level emphasis";"case_1";0.000253220180635441
+278;"Run length 3D-avg";"Long run low grey level emphasis";"case_3";0.000352182737008843
+279;"Run length 3D-avg";"Long run high grey level emphasis";"case_2";20.9266041587598
+279;"Run length 3D-avg";"Long run high grey level emphasis";"case_4";28.7895877577875
+279;"Run length 3D-avg";"Long run high grey level emphasis";"case_5";3.21855686724635
+279;"Run length 3D-avg";"Long run high grey level emphasis";"case_1";23.0863933021649
+279;"Run length 3D-avg";"Long run high grey level emphasis";"case_3";14.2663565816448
+280;"Run length 3D-avg";"Grey level non-uniformity";"case_2";5.71821826389285
+280;"Run length 3D-avg";"Grey level non-uniformity";"case_4";16.6725569500181
+280;"Run length 3D-avg";"Grey level non-uniformity";"case_5";41.8981803007466
+280;"Run length 3D-avg";"Grey level non-uniformity";"case_1";28.6282239400352
+280;"Run length 3D-avg";"Grey level non-uniformity";"case_3";8.0140617275038
+281;"Run length 3D-avg";"Grey level non-uniformity normalised";"case_2";0.000591560636413416
+281;"Run length 3D-avg";"Grey level non-uniformity normalised";"case_4";0.000571312215127538
+281;"Run length 3D-avg";"Grey level non-uniformity normalised";"case_5";0.000613051059413128
+281;"Run length 3D-avg";"Grey level non-uniformity normalised";"case_1";0.00139579627670493
+281;"Run length 3D-avg";"Grey level non-uniformity normalised";"case_3";0.0015861272524119
+282;"Run length 3D-avg";"Run length non-uniformity";"case_2";65.7289325683185
+282;"Run length 3D-avg";"Run length non-uniformity";"case_4";128.299103190821
+282;"Run length 3D-avg";"Run length non-uniformity";"case_5";58.0194734632127
+282;"Run length 3D-avg";"Run length non-uniformity";"case_1";440.087161281643
+282;"Run length 3D-avg";"Run length non-uniformity";"case_3";265.312700489652
+283;"Run length 3D-avg";"Run length non-uniformity normalised";"case_2";0.000580101702204511
+283;"Run length 3D-avg";"Run length non-uniformity normalised";"case_4";0.000631446994075213
+283;"Run length 3D-avg";"Run length non-uniformity normalised";"case_5";0.00271546014130661
+283;"Run length 3D-avg";"Run length non-uniformity normalised";"case_1";0.00162655269256262
+283;"Run length 3D-avg";"Run length non-uniformity normalised";"case_3";0.00246473658385735
+284;"Run length 3D-avg";"Run percentage";"case_2";0.00125528858743638
+284;"Run length 3D-avg";"Run percentage";"case_4";0.00171285467408322
+284;"Run length 3D-avg";"Run percentage";"case_5";0.00312064362719217
+284;"Run length 3D-avg";"Run percentage";"case_1";0.00163663704915508
+284;"Run length 3D-avg";"Run percentage";"case_3";0.00174473312097434
+285;"Run length 3D-avg";"Grey level variance";"case_2";0.122738004835437
+285;"Run length 3D-avg";"Grey level variance";"case_4";0.183273164591877
+285;"Run length 3D-avg";"Grey level variance";"case_5";0.179657498542495
+285;"Run length 3D-avg";"Grey level variance";"case_1";0.479693433911736
+285;"Run length 3D-avg";"Grey level variance";"case_3";0.599120220497621
+286;"Run length 3D-avg";"Run length variance";"case_2";0.0153362311792626
+286;"Run length 3D-avg";"Run length variance";"case_4";0.0350375312591681
+286;"Run length 3D-avg";"Run length variance";"case_5";0.0204367466039784
+286;"Run length 3D-avg";"Run length variance";"case_1";0.0273273329038711
+286;"Run length 3D-avg";"Run length variance";"case_3";0.00947151648308684
+287;"Run length 3D-avg";"Run entropy";"case_2";0.00721214152013685
+287;"Run length 3D-avg";"Run entropy";"case_4";0.00674493940115055
+287;"Run length 3D-avg";"Run entropy";"case_5";0.00665295934200469
+287;"Run length 3D-avg";"Run entropy";"case_1";0.00705958358466026
+287;"Run length 3D-avg";"Run entropy";"case_3";0.0104652744908497
+288;"Run length 3D-comb";"Short runs emphasis";"case_2";0.000368706747880204
+288;"Run length 3D-comb";"Short runs emphasis";"case_4";0.000437538392359466
+288;"Run length 3D-comb";"Short runs emphasis";"case_5";0.00170762147833439
+288;"Run length 3D-comb";"Short runs emphasis";"case_1";0.00103227268341355
+288;"Run length 3D-comb";"Short runs emphasis";"case_3";0.00172736064959434
+289;"Run length 3D-comb";"Long runs emphasis";"case_2";0.023376883861716
+289;"Run length 3D-comb";"Long runs emphasis";"case_4";0.0483177048805073
+289;"Run length 3D-comb";"Long runs emphasis";"case_5";0.0367798118161311
+289;"Run length 3D-comb";"Long runs emphasis";"case_1";0.0368089878014786
+289;"Run length 3D-comb";"Long runs emphasis";"case_3";0.0242829500021977
+290;"Run length 3D-comb";"Low grey level run emphasis";"case_2";0.000510594374986538
+290;"Run length 3D-comb";"Low grey level run emphasis";"case_4";0.0006637208789455
+290;"Run length 3D-comb";"Low grey level run emphasis";"case_5";0.000545265952810391
+290;"Run length 3D-comb";"Low grey level run emphasis";"case_1";0.000315233939762466
+290;"Run length 3D-comb";"Low grey level run emphasis";"case_3";0.000360579969970292
+291;"Run length 3D-comb";"High grey level run emphasis";"case_2";10.0469589386973
+291;"Run length 3D-comb";"High grey level run emphasis";"case_4";13.1158823515769
+291;"Run length 3D-comb";"High grey level run emphasis";"case_5";6.60743092483733
+291;"Run length 3D-comb";"High grey level run emphasis";"case_1";1.28619484077763
+291;"Run length 3D-comb";"High grey level run emphasis";"case_3";1.73623456644704
+292;"Run length 3D-comb";"Short run low grey level emphasis";"case_2";0.000486127340062065
+292;"Run length 3D-comb";"Short run low grey level emphasis";"case_4";0.000626852699098224
+292;"Run length 3D-comb";"Short run low grey level emphasis";"case_5";0.000519868664732402
+292;"Run length 3D-comb";"Short run low grey level emphasis";"case_1";0.000307247428320639
+292;"Run length 3D-comb";"Short run low grey level emphasis";"case_3";0.000353932114701505
+293;"Run length 3D-comb";"Short run high grey level emphasis";"case_2";7.96223072817357
+293;"Run length 3D-comb";"Short run high grey level emphasis";"case_4";9.90703383719205
+293;"Run length 3D-comb";"Short run high grey level emphasis";"case_5";6.28462196338898
+293;"Run length 3D-comb";"Short run high grey level emphasis";"case_1";0.643133200300017
+293;"Run length 3D-comb";"Short run high grey level emphasis";"case_3";0.75550845156522
+294;"Run length 3D-comb";"Long run low grey level emphasis";"case_2";0.000685990607460217
+294;"Run length 3D-comb";"Long run low grey level emphasis";"case_4";0.000999592348995288
+294;"Run length 3D-comb";"Long run low grey level emphasis";"case_5";0.00076113009650362
+294;"Run length 3D-comb";"Long run low grey level emphasis";"case_1";0.000266432885461615
+294;"Run length 3D-comb";"Long run low grey level emphasis";"case_3";0.000353196136976726
+295;"Run length 3D-comb";"Long run high grey level emphasis";"case_2";20.9202520004391
+295;"Run length 3D-comb";"Long run high grey level emphasis";"case_4";28.3250518436443
+295;"Run length 3D-comb";"Long run high grey level emphasis";"case_5";3.27598603114818
+295;"Run length 3D-comb";"Long run high grey level emphasis";"case_1";17.7637922360483
+295;"Run length 3D-comb";"Long run high grey level emphasis";"case_3";13.67947211776
+296;"Run length 3D-comb";"Grey level non-uniformity";"case_2";73.8547443004345
+296;"Run length 3D-comb";"Grey level non-uniformity";"case_4";215.508044480273
+296;"Run length 3D-comb";"Grey level non-uniformity";"case_5";544.193891545559
+296;"Run length 3D-comb";"Grey level non-uniformity";"case_1";380.633324768416
+296;"Run length 3D-comb";"Grey level non-uniformity";"case_3";103.541287026715
+297;"Run length 3D-comb";"Grey level non-uniformity normalised";"case_2";0.000586647381094854
+297;"Run length 3D-comb";"Grey level non-uniformity normalised";"case_4";0.000571979693867536
+297;"Run length 3D-comb";"Grey level non-uniformity normalised";"case_5";0.00061602461359239
+297;"Run length 3D-comb";"Grey level non-uniformity normalised";"case_1";0.0014347815960087
+297;"Run length 3D-comb";"Grey level non-uniformity normalised";"case_3";0.00158922038522988
+298;"Run length 3D-comb";"Run length non-uniformity";"case_2";857.337425126329
+298;"Run length 3D-comb";"Run length non-uniformity";"case_4";1670.22357858622
+298;"Run length 3D-comb";"Run length non-uniformity";"case_5";754.542746596827
+298;"Run length 3D-comb";"Run length non-uniformity";"case_1";5740.61153416149
+298;"Run length 3D-comb";"Run length non-uniformity";"case_3";3451.32551748696
+299;"Run length 3D-comb";"Run length non-uniformity normalised";"case_2";0.00057227407682881
+299;"Run length 3D-comb";"Run length non-uniformity normalised";"case_4";0.000628485106988552
+299;"Run length 3D-comb";"Run length non-uniformity normalised";"case_5";0.00269933584088644
+299;"Run length 3D-comb";"Run length non-uniformity normalised";"case_1";0.0015142091468165
+299;"Run length 3D-comb";"Run length non-uniformity normalised";"case_3";0.00245071585159142
+300;"Run length 3D-comb";"Run percentage";"case_2";0.00125528858743637
+300;"Run length 3D-comb";"Run percentage";"case_4";0.00171285467408322
+300;"Run length 3D-comb";"Run percentage";"case_5";0.00312064362719215
+300;"Run length 3D-comb";"Run percentage";"case_1";0.00163663704915508
+300;"Run length 3D-comb";"Run percentage";"case_3";0.00174473312097433
+301;"Run length 3D-comb";"Grey level variance";"case_2";0.122264253155892
+301;"Run length 3D-comb";"Grey level variance";"case_4";0.181857940585787
+301;"Run length 3D-comb";"Grey level variance";"case_5";0.179271533819678
+301;"Run length 3D-comb";"Grey level variance";"case_1";0.489883648915479
+301;"Run length 3D-comb";"Grey level variance";"case_3";0.600505286742302
+302;"Run length 3D-comb";"Run length variance";"case_2";0.0149009439362006
+302;"Run length 3D-comb";"Run length variance";"case_4";0.0343167540416701
+302;"Run length 3D-comb";"Run length variance";"case_5";0.0201838939010696
+302;"Run length 3D-comb";"Run length variance";"case_1";0.0228475364000172
+302;"Run length 3D-comb";"Run length variance";"case_3";0.009217787716078
+303;"Run length 3D-comb";"Run entropy";"case_2";0.00718083566970473
+303;"Run length 3D-comb";"Run entropy";"case_4";0.00675727771166024
+303;"Run length 3D-comb";"Run entropy";"case_5";0.00659310407656246
+303;"Run length 3D-comb";"Run entropy";"case_1";0.00765662215873082
+303;"Run length 3D-comb";"Run entropy";"case_3";0.010496379744421
+304;"Size zone 2D";"Small zone emphasis";"case_2";0.00198995936258203
+304;"Size zone 2D";"Small zone emphasis";"case_4";0.00169209685682151
+304;"Size zone 2D";"Small zone emphasis";"case_5";0.00198225562738412
+304;"Size zone 2D";"Small zone emphasis";"case_1";0.00254915948783022
+304;"Size zone 2D";"Small zone emphasis";"case_3";0.00175775978511448
+305;"Size zone 2D";"Large zone emphasis";"case_2";6.99540500224494
+305;"Size zone 2D";"Large zone emphasis";"case_4";14.2401583015886
+305;"Size zone 2D";"Large zone emphasis";"case_5";12.4379265288105
+305;"Size zone 2D";"Large zone emphasis";"case_1";58.2496193057857
+305;"Size zone 2D";"Large zone emphasis";"case_3";6.13632179498287
+306;"Size zone 2D";"Low grey level emphasis";"case_2";0.000868575984467936
+306;"Size zone 2D";"Low grey level emphasis";"case_4";0.00113443825532043
+306;"Size zone 2D";"Low grey level emphasis";"case_5";0.00106206541135225
+306;"Size zone 2D";"Low grey level emphasis";"case_1";0.000499248440567035
+306;"Size zone 2D";"Low grey level emphasis";"case_3";0.000591685730920254
+307;"Size zone 2D";"High grey level emphasis";"case_2";9.90635352528324
+307;"Size zone 2D";"High grey level emphasis";"case_4";12.2335245432495
+307;"Size zone 2D";"High grey level emphasis";"case_5";7.7664726024593
+307;"Size zone 2D";"High grey level emphasis";"case_1";2.11154083382558
+307;"Size zone 2D";"High grey level emphasis";"case_3";2.39864644459678
+308;"Size zone 2D";"Small zone low grey level emphasis";"case_2";0.000742050893550867
+308;"Size zone 2D";"Small zone low grey level emphasis";"case_4";0.000942759311978141
+308;"Size zone 2D";"Small zone low grey level emphasis";"case_5";0.000902008059976271
+308;"Size zone 2D";"Small zone low grey level emphasis";"case_1";0.000416734574818899
+308;"Size zone 2D";"Small zone low grey level emphasis";"case_3";0.000517642707423678
+309;"Size zone 2D";"Small zone high grey level emphasis";"case_2";5.68658916062565
+309;"Size zone 2D";"Small zone high grey level emphasis";"case_4";7.44535506344533
+309;"Size zone 2D";"Small zone high grey level emphasis";"case_5";4.71001168353803
+309;"Size zone 2D";"Small zone high grey level emphasis";"case_1";0.691673606473987
+309;"Size zone 2D";"Small zone high grey level emphasis";"case_3";0.863620422566991
+310;"Size zone 2D";"Large zone low grey level emphasis";"case_2";0.0329551681894281
+310;"Size zone 2D";"Large zone low grey level emphasis";"case_4";0.0576919080177311
+310;"Size zone 2D";"Large zone low grey level emphasis";"case_5";0.0395059908480341
+310;"Size zone 2D";"Large zone low grey level emphasis";"case_1";0.114902951216716
+310;"Size zone 2D";"Large zone low grey level emphasis";"case_3";0.0121472346760865
+311;"Size zone 2D";"Large zone high grey level emphasis";"case_2";1880.59940092919
+311;"Size zone 2D";"Large zone high grey level emphasis";"case_4";1516.22229510532
+311;"Size zone 2D";"Large zone high grey level emphasis";"case_5";3996.88965147318
+311;"Size zone 2D";"Large zone high grey level emphasis";"case_1";30002.7928457596
+311;"Size zone 2D";"Large zone high grey level emphasis";"case_3";2895.68852905691
+312;"Size zone 2D";"Grey level non-uniformity";"case_2";0.0489091607149305
+312;"Size zone 2D";"Grey level non-uniformity";"case_4";0.0467289148849305
+312;"Size zone 2D";"Grey level non-uniformity";"case_5";0.235033624207426
+312;"Size zone 2D";"Grey level non-uniformity";"case_1";0.411015507269576
+312;"Size zone 2D";"Grey level non-uniformity";"case_3";0.0865411681228217
+313;"Size zone 2D";"Grey level non uniformity normalised";"case_2";0.000971179479132821
+313;"Size zone 2D";"Grey level non uniformity normalised";"case_4";0.000635381289318591
+313;"Size zone 2D";"Grey level non uniformity normalised";"case_5";0.00045009696904867
+313;"Size zone 2D";"Grey level non uniformity normalised";"case_1";0.00101843634038399
+313;"Size zone 2D";"Grey level non uniformity normalised";"case_3";0.00103060071073989
+314;"Size zone 2D";"Zone size non-uniformity";"case_2";2.23268301684081
+314;"Size zone 2D";"Zone size non-uniformity";"case_4";2.00822299800567
+314;"Size zone 2D";"Zone size non-uniformity";"case_5";1.12735886365073
+314;"Size zone 2D";"Zone size non-uniformity";"case_1";8.27944283825236
+314;"Size zone 2D";"Zone size non-uniformity";"case_3";3.12947170429755
+315;"Size zone 2D";"Zone size non-uniformity normalised";"case_2";0.00251134636499272
+315;"Size zone 2D";"Zone size non-uniformity normalised";"case_4";0.00216780244912838
+315;"Size zone 2D";"Zone size non-uniformity normalised";"case_5";0.00256968857648694
+315;"Size zone 2D";"Zone size non-uniformity normalised";"case_1";0.00286278850904336
+315;"Size zone 2D";"Zone size non-uniformity normalised";"case_3";0.00233236099834046
+316;"Size zone 2D";"Zone percentage";"case_2";0.000991289669468334
+316;"Size zone 2D";"Zone percentage";"case_4";0.000914255805517383
+316;"Size zone 2D";"Zone percentage";"case_5";0.0021287441892497
+316;"Size zone 2D";"Zone percentage";"case_1";0.00180742739429818
+316;"Size zone 2D";"Zone percentage";"case_3";0.00261223214700903
+317;"Size zone 2D";"Grey level variance";"case_2";0.22141132570369
+317;"Size zone 2D";"Grey level variance";"case_4";0.340570194269244
+317;"Size zone 2D";"Grey level variance";"case_5";0.112455331451833
+317;"Size zone 2D";"Grey level variance";"case_1";0.576575253310488
+317;"Size zone 2D";"Grey level variance";"case_3";0.626520258802767
+318;"Size zone 2D";"Zone size variance";"case_2";7.07594666662947
+318;"Size zone 2D";"Zone size variance";"case_4";14.2231349584087
+318;"Size zone 2D";"Zone size variance";"case_5";12.2295258399514
+318;"Size zone 2D";"Zone size variance";"case_1";57.4105886885518
+318;"Size zone 2D";"Zone size variance";"case_3";5.54435385594513
+319;"Size zone 2D";"Zone size entropy";"case_2";0.00376365659107671
+319;"Size zone 2D";"Zone size entropy";"case_4";0.00333023731133699
+319;"Size zone 2D";"Zone size entropy";"case_5";0.00432032683432686
+319;"Size zone 2D";"Zone size entropy";"case_1";0.00609424294600078
+319;"Size zone 2D";"Zone size entropy";"case_3";0.00904244498278577
+320;"Size zone 3D";"Small zone emphasis";"case_2";0.000966419727469381
+320;"Size zone 3D";"Small zone emphasis";"case_4";0.00144312683890587
+320;"Size zone 3D";"Small zone emphasis";"case_5";0.00081243506857176
+320;"Size zone 3D";"Small zone emphasis";"case_1";0.000586430592410342
+320;"Size zone 3D";"Small zone emphasis";"case_3";0.000453109277737085
+321;"Size zone 3D";"Large zone emphasis";"case_2";96.0749972522632
+321;"Size zone 3D";"Large zone emphasis";"case_4";486.61753878617
+321;"Size zone 3D";"Large zone emphasis";"case_5";784.570522133076
+321;"Size zone 3D";"Large zone emphasis";"case_1";2501.08361394318
+321;"Size zone 3D";"Large zone emphasis";"case_3";755.822450042314
+322;"Size zone 3D";"Low grey level emphasis";"case_2";0.000980502883352339
+322;"Size zone 3D";"Low grey level emphasis";"case_4";0.00124255829270415
+322;"Size zone 3D";"Low grey level emphasis";"case_5";0.00127794862616448
+322;"Size zone 3D";"Low grey level emphasis";"case_1";0.000411744933538645
+322;"Size zone 3D";"Low grey level emphasis";"case_3";0.000461711606467813
+323;"Size zone 3D";"High grey level emphasis";"case_2";7.00978801010378
+323;"Size zone 3D";"High grey level emphasis";"case_4";8.13846735042089
+323;"Size zone 3D";"High grey level emphasis";"case_5";6.32341584103568
+323;"Size zone 3D";"High grey level emphasis";"case_1";0.935822209275625
+323;"Size zone 3D";"High grey level emphasis";"case_3";1.2547102480628
+324;"Size zone 3D";"Small zone low grey level emphasis";"case_2";0.000658097992182859
+324;"Size zone 3D";"Small zone low grey level emphasis";"case_4";0.000766767953473414
+324;"Size zone 3D";"Small zone low grey level emphasis";"case_5";0.000829668081776301
+324;"Size zone 3D";"Small zone low grey level emphasis";"case_1";0.000272668508802982
+324;"Size zone 3D";"Small zone low grey level emphasis";"case_3";0.000329534814537603
+325;"Size zone 3D";"Small zone high grey level emphasis";"case_2";4.96277610051698
+325;"Size zone 3D";"Small zone high grey level emphasis";"case_4";5.56814410800936
+325;"Size zone 3D";"Small zone high grey level emphasis";"case_5";4.23825558890213
+325;"Size zone 3D";"Small zone high grey level emphasis";"case_1";0.578846578639917
+325;"Size zone 3D";"Small zone high grey level emphasis";"case_3";0.647990451514123
+326;"Size zone 3D";"Large zone low grey level emphasis";"case_2";1.27090500674016
+326;"Size zone 3D";"Large zone low grey level emphasis";"case_4";3.62398731063318
+326;"Size zone 3D";"Large zone low grey level emphasis";"case_5";3.36362532689166
+326;"Size zone 3D";"Large zone low grey level emphasis";"case_1";4.96196645891237
+326;"Size zone 3D";"Large zone low grey level emphasis";"case_3";1.51568967615887
+327;"Size zone 3D";"Large zone high grey level emphasis";"case_2";277821.640772
+327;"Size zone 3D";"Large zone high grey level emphasis";"case_4";448195.527816563
+327;"Size zone 3D";"Large zone high grey level emphasis";"case_5";110971.428707437
+327;"Size zone 3D";"Large zone high grey level emphasis";"case_1";1266628.20000545
+327;"Size zone 3D";"Large zone high grey level emphasis";"case_3";377498.576935267
+328;"Size zone 3D";"Grey level non-uniformity";"case_2";3.33988947184557
+328;"Size zone 3D";"Grey level non-uniformity";"case_4";5.63333391420439
+328;"Size zone 3D";"Grey level non-uniformity";"case_5";4.65649298987365
+328;"Size zone 3D";"Grey level non-uniformity";"case_1";9.55008860176157
+328;"Size zone 3D";"Grey level non-uniformity";"case_3";5.01616072228736
+329;"Size zone 3D";"Grey level non uniformity normalised";"case_2";0.000279201331086496
+329;"Size zone 3D";"Grey level non uniformity normalised";"case_4";0.000411413359798624
+329;"Size zone 3D";"Grey level non uniformity normalised";"case_5";0.000242510607843428
+329;"Size zone 3D";"Grey level non uniformity normalised";"case_1";5.02219748389474e-05
+329;"Size zone 3D";"Grey level non uniformity normalised";"case_3";0.000106575850714288
+330;"Size zone 3D";"Zone size non-uniformity";"case_2";20.306029612628
+330;"Size zone 3D";"Zone size non-uniformity";"case_4";26.4085662964549
+330;"Size zone 3D";"Zone size non-uniformity";"case_5";26.7748318354645
+330;"Size zone 3D";"Zone size non-uniformity";"case_1";101.75322036888
+330;"Size zone 3D";"Zone size non-uniformity";"case_3";57.9237999297202
+331;"Size zone 3D";"Zone size non-uniformity normalised";"case_2";0.00131993452235941
+331;"Size zone 3D";"Zone size non-uniformity normalised";"case_4";0.00184059967274932
+331;"Size zone 3D";"Zone size non-uniformity normalised";"case_5";0.00108404698003917
+331;"Size zone 3D";"Zone size non-uniformity normalised";"case_1";0.000687302099589299
+331;"Size zone 3D";"Zone size non-uniformity normalised";"case_3";0.000559447975974192
+332;"Size zone 3D";"Zone percentage";"case_2";0.00102481307996208
+332;"Size zone 3D";"Zone percentage";"case_4";0.000713994797823854
+332;"Size zone 3D";"Zone percentage";"case_5";0.000478648993786739
+332;"Size zone 3D";"Zone percentage";"case_1";0.00139600997857443
+332;"Size zone 3D";"Zone percentage";"case_3";0.0018013097713153
+333;"Size zone 3D";"Grey level variance";"case_2";0.99294999472296
+333;"Size zone 3D";"Grey level variance";"case_4";1.16573973636688
+333;"Size zone 3D";"Grey level variance";"case_5";0.703850330116676
+333;"Size zone 3D";"Grey level variance";"case_1";0.128355830859121
+333;"Size zone 3D";"Grey level variance";"case_3";0.116757327390128
+334;"Size zone 3D";"Zone size variance";"case_2";95.7500564344506
+334;"Size zone 3D";"Zone size variance";"case_4";487.587020926095
+334;"Size zone 3D";"Zone size variance";"case_5";784.647068628192
+334;"Size zone 3D";"Zone size variance";"case_1";2498.24156029607
+334;"Size zone 3D";"Zone size variance";"case_3";753.238624560155
+335;"Size zone 3D";"Zone size entropy";"case_2";0.00504072564289455
+335;"Size zone 3D";"Zone size entropy";"case_4";0.00539019656592332
+335;"Size zone 3D";"Zone size entropy";"case_5";0.00534250489110759
+335;"Size zone 3D";"Zone size entropy";"case_1";0.00186674836918703
+335;"Size zone 3D";"Zone size entropy";"case_3";0.00365026016331074
+336;"Distance zone 2D";"Small distance emphasis";"case_2";0.00359072201834723
+336;"Distance zone 2D";"Small distance emphasis";"case_4";0.0032755038744017
+336;"Distance zone 2D";"Small distance emphasis";"case_5";0.0015241437010876
+336;"Distance zone 2D";"Small distance emphasis";"case_1";0.00395664430987419
+336;"Distance zone 2D";"Small distance emphasis";"case_3";0.0047547602657953
+337;"Distance zone 2D";"Large distance emphasis";"case_2";0.143732163322347
+337;"Distance zone 2D";"Large distance emphasis";"case_4";0.165066601764416
+337;"Distance zone 2D";"Large distance emphasis";"case_5";0.138542511363649
+337;"Distance zone 2D";"Large distance emphasis";"case_1";0.96037824414472
+337;"Distance zone 2D";"Large distance emphasis";"case_3";0.236331002322878
+338;"Distance zone 2D";"Low grey level emphasis";"case_2";0.000868575984467936
+338;"Distance zone 2D";"Low grey level emphasis";"case_4";0.00113443825532043
+338;"Distance zone 2D";"Low grey level emphasis";"case_5";0.00106206541135225
+338;"Distance zone 2D";"Low grey level emphasis";"case_1";0.000499248440567035
+338;"Distance zone 2D";"Low grey level emphasis";"case_3";0.000591685730920254
+339;"Distance zone 2D";"High grey level emphasis";"case_2";9.90635352528324
+339;"Distance zone 2D";"High grey level emphasis";"case_4";12.2335245432495
+339;"Distance zone 2D";"High grey level emphasis";"case_5";7.7664726024593
+339;"Distance zone 2D";"High grey level emphasis";"case_1";2.11154083382558
+339;"Distance zone 2D";"High grey level emphasis";"case_3";2.39864644459678
+340;"Distance zone 2D";"Small distance low grey level emphasis";"case_2";0.000394579657846801
+340;"Distance zone 2D";"Small distance low grey level emphasis";"case_4";0.000465523829754873
+340;"Distance zone 2D";"Small distance low grey level emphasis";"case_5";0.000386415452425635
+340;"Distance zone 2D";"Small distance low grey level emphasis";"case_1";0.000156091549157138
+340;"Distance zone 2D";"Small distance low grey level emphasis";"case_3";0.000243989029353738
+341;"Distance zone 2D";"Small distance high grey level emphasis";"case_2";5.3441081504575
+341;"Distance zone 2D";"Small distance high grey level emphasis";"case_4";6.11248489080593
+341;"Distance zone 2D";"Small distance high grey level emphasis";"case_5";2.93555049735207
+341;"Distance zone 2D";"Small distance high grey level emphasis";"case_1";2.46143254072835
+341;"Distance zone 2D";"Small distance high grey level emphasis";"case_3";2.98280799147381
+342;"Distance zone 2D";"Large distance low grey level emphasis";"case_2";0.0171109892363039
+342;"Distance zone 2D";"Large distance low grey level emphasis";"case_4";0.0255584308696677
+342;"Distance zone 2D";"Large distance low grey level emphasis";"case_5";0.0247456847860832
+342;"Distance zone 2D";"Large distance low grey level emphasis";"case_1";0.0419685089293592
+342;"Distance zone 2D";"Large distance low grey level emphasis";"case_3";0.0160206167229637
+343;"Distance zone 2D";"Large distance high grey level emphasis";"case_2";231.077367159097
+343;"Distance zone 2D";"Large distance high grey level emphasis";"case_4";273.677370046488
+343;"Distance zone 2D";"Large distance high grey level emphasis";"case_5";234.086531263803
+343;"Distance zone 2D";"Large distance high grey level emphasis";"case_1";458.045872257193
+343;"Distance zone 2D";"Large distance high grey level emphasis";"case_3";71.0107309432881
+344;"Distance zone 2D";"Grey level non-uniformity";"case_2";0.0489091607149305
+344;"Distance zone 2D";"Grey level non-uniformity";"case_4";0.0467289148849305
+344;"Distance zone 2D";"Grey level non-uniformity";"case_5";0.235033624207426
+344;"Distance zone 2D";"Grey level non-uniformity";"case_1";0.411015507269576
+344;"Distance zone 2D";"Grey level non-uniformity";"case_3";0.0865411681228217
+345;"Distance zone 2D";"Grey level non-uniformity normalised";"case_2";0.000971179479132821
+345;"Distance zone 2D";"Grey level non-uniformity normalised";"case_4";0.000635381289318591
+345;"Distance zone 2D";"Grey level non-uniformity normalised";"case_5";0.00045009696904867
+345;"Distance zone 2D";"Grey level non-uniformity normalised";"case_1";0.00101843634038399
+345;"Distance zone 2D";"Grey level non-uniformity normalised";"case_3";0.00103060071073989
+346;"Distance zone 2D";"Zone distance non-uniformity";"case_2";0.197482076585502
+346;"Distance zone 2D";"Zone distance non-uniformity";"case_4";0.113611589340962
+346;"Distance zone 2D";"Zone distance non-uniformity";"case_5";0.0409635687758037
+346;"Distance zone 2D";"Zone distance non-uniformity";"case_1";0.606599771385164
+346;"Distance zone 2D";"Zone distance non-uniformity";"case_3";0.227135039974156
+347;"Distance zone 2D";"Zone distance non-uniformity normalised";"case_2";0.00168825286531962
+347;"Distance zone 2D";"Zone distance non-uniformity normalised";"case_4";0.00131231423780079
+347;"Distance zone 2D";"Zone distance non-uniformity normalised";"case_5";0.000451910456101026
+347;"Distance zone 2D";"Zone distance non-uniformity normalised";"case_1";0.00135625156332924
+347;"Distance zone 2D";"Zone distance non-uniformity normalised";"case_3";0.00213463042844597
+348;"Distance zone 2D";"Zone percentage";"case_2";0.000991289669468334
+348;"Distance zone 2D";"Zone percentage";"case_4";0.000914255805517383
+348;"Distance zone 2D";"Zone percentage";"case_5";0.0021287441892497
+348;"Distance zone 2D";"Zone percentage";"case_1";0.00180742739429818
+348;"Distance zone 2D";"Zone percentage";"case_3";0.00261223214700903
+349;"Distance zone 2D";"Grey level variance";"case_2";0.22141132570369
+349;"Distance zone 2D";"Grey level variance";"case_4";0.340570194269246
+349;"Distance zone 2D";"Grey level variance";"case_5";0.112455331451833
+349;"Distance zone 2D";"Grey level variance";"case_1";0.576575253310487
+349;"Distance zone 2D";"Grey level variance";"case_3";0.626520258802766
+350;"Distance zone 2D";"Zone distance variance";"case_2";0.0539636135624642
+350;"Distance zone 2D";"Zone distance variance";"case_4";0.0492127420102256
+350;"Distance zone 2D";"Zone distance variance";"case_5";0.0560426675732234
+350;"Distance zone 2D";"Zone distance variance";"case_1";0.398115222499683
+350;"Distance zone 2D";"Zone distance variance";"case_3";0.0589311344161877
+351;"Distance zone 2D";"Zone distance entropy";"case_2";0.0180841769708013
+351;"Distance zone 2D";"Zone distance entropy";"case_4";0.0136896970332921
+351;"Distance zone 2D";"Zone distance entropy";"case_5";0.00687136923814271
+351;"Distance zone 2D";"Zone distance entropy";"case_1";0.0268791185264475
+351;"Distance zone 2D";"Zone distance entropy";"case_3";0.0285131768951768
+352;"Distance zone 3D";"Small distance emphasis";"case_2";0.00387374473319639
+352;"Distance zone 3D";"Small distance emphasis";"case_4";0.00546925283942683
+352;"Distance zone 3D";"Small distance emphasis";"case_5";0.00490605712033174
+352;"Distance zone 3D";"Small distance emphasis";"case_1";0.00514736516729651
+352;"Distance zone 3D";"Small distance emphasis";"case_3";0.006477490812989
+353;"Distance zone 3D";"Large distance emphasis";"case_2";0.0575841683452408
+353;"Distance zone 3D";"Large distance emphasis";"case_4";0.193553113894261
+353;"Distance zone 3D";"Large distance emphasis";"case_5";0.150331639620731
+353;"Distance zone 3D";"Large distance emphasis";"case_1";0.126008024513546
+353;"Distance zone 3D";"Large distance emphasis";"case_3";0.208864237875487
+354;"Distance zone 3D";"Low grey level emphasis";"case_2";0.000980502883352339
+354;"Distance zone 3D";"Low grey level emphasis";"case_4";0.00124255829270415
+354;"Distance zone 3D";"Low grey level emphasis";"case_5";0.00127794862616448
+354;"Distance zone 3D";"Low grey level emphasis";"case_1";0.000411744933538645
+354;"Distance zone 3D";"Low grey level emphasis";"case_3";0.000461711606467813
+355;"Distance zone 3D";"High grey level emphasis";"case_2";7.00978801010378
+355;"Distance zone 3D";"High grey level emphasis";"case_4";8.13846735042089
+355;"Distance zone 3D";"High grey level emphasis";"case_5";6.32341584103568
+355;"Distance zone 3D";"High grey level emphasis";"case_1";0.935822209275625
+355;"Distance zone 3D";"High grey level emphasis";"case_3";1.2547102480628
+356;"Distance zone 3D";"Small distance low grey level emphasis";"case_2";0.000580512389575119
+356;"Distance zone 3D";"Small distance low grey level emphasis";"case_4";0.000574736855607962
+356;"Distance zone 3D";"Small distance low grey level emphasis";"case_5";0.000505447006966053
+356;"Distance zone 3D";"Small distance low grey level emphasis";"case_1";0.000161120093232783
+356;"Distance zone 3D";"Small distance low grey level emphasis";"case_3";0.000163011191076187
+357;"Distance zone 3D";"Small distance high grey level emphasis";"case_2";4.92009320560973
+357;"Distance zone 3D";"Small distance high grey level emphasis";"case_4";5.4507402224164
+357;"Distance zone 3D";"Small distance high grey level emphasis";"case_5";4.00828316282273
+357;"Distance zone 3D";"Small distance high grey level emphasis";"case_1";2.02424608389507
+357;"Distance zone 3D";"Small distance high grey level emphasis";"case_3";2.44998886551771
+358;"Distance zone 3D";"Large distance low grey level emphasis";"case_2";0.00584952449362783
+358;"Distance zone 3D";"Large distance low grey level emphasis";"case_4";0.017086814372984
+358;"Distance zone 3D";"Large distance low grey level emphasis";"case_5";0.019438100564218
+358;"Distance zone 3D";"Large distance low grey level emphasis";"case_1";0.00674106137996938
+358;"Distance zone 3D";"Large distance low grey level emphasis";"case_3";0.0112764840925947
+359;"Distance zone 3D";"Large distance high grey level emphasis";"case_2";52.2802187985354
+359;"Distance zone 3D";"Large distance high grey level emphasis";"case_4";68.7229620706235
+359;"Distance zone 3D";"Large distance high grey level emphasis";"case_5";76.3545521297956
+359;"Distance zone 3D";"Large distance high grey level emphasis";"case_1";36.964035734743
+359;"Distance zone 3D";"Large distance high grey level emphasis";"case_3";40.6597352045217
+360;"Distance zone 3D";"Grey level non-uniformity";"case_2";3.33988947184557
+360;"Distance zone 3D";"Grey level non-uniformity";"case_4";5.63333391420439
+360;"Distance zone 3D";"Grey level non-uniformity";"case_5";4.65649298987365
+360;"Distance zone 3D";"Grey level non-uniformity";"case_1";9.55008860176157
+360;"Distance zone 3D";"Grey level non-uniformity";"case_3";5.01616072228736
+361;"Distance zone 3D";"Grey level non-uniformity normalised";"case_2";0.000279201331086496
+361;"Distance zone 3D";"Grey level non-uniformity normalised";"case_4";0.000411413359798624
+361;"Distance zone 3D";"Grey level non-uniformity normalised";"case_5";0.000242510607843428
+361;"Distance zone 3D";"Grey level non-uniformity normalised";"case_1";5.02219748389474e-05
+361;"Distance zone 3D";"Grey level non-uniformity normalised";"case_3";0.000106575850714288
+362;"Distance zone 3D";"Zone distance non-uniformity";"case_2";5.83115629657057
+362;"Distance zone 3D";"Zone distance non-uniformity";"case_4";8.2835603433566
+362;"Distance zone 3D";"Zone distance non-uniformity";"case_5";5.0790376427436
+362;"Distance zone 3D";"Zone distance non-uniformity";"case_1";21.8767317871738
+362;"Distance zone 3D";"Zone distance non-uniformity";"case_3";13.8603024022723
+363;"Distance zone 3D";"Zone distance non-uniformity normalised";"case_2";0.00269873574977658
+363;"Distance zone 3D";"Zone distance non-uniformity normalised";"case_4";0.00344381205232065
+363;"Distance zone 3D";"Zone distance non-uniformity normalised";"case_5";0.00250025451706978
+363;"Distance zone 3D";"Zone distance non-uniformity normalised";"case_1";0.00336361016284566
+363;"Distance zone 3D";"Zone distance non-uniformity normalised";"case_3";0.00407095186309415
+364;"Distance zone 3D";"Zone percentage";"case_2";0.00102481307996208
+364;"Distance zone 3D";"Zone percentage";"case_4";0.000713994797823854
+364;"Distance zone 3D";"Zone percentage";"case_5";0.000478648993786739
+364;"Distance zone 3D";"Zone percentage";"case_1";0.00139600997857443
+364;"Distance zone 3D";"Zone percentage";"case_3";0.0018013097713153
+365;"Distance zone 3D";"Grey level variance";"case_2";0.992949994722963
+365;"Distance zone 3D";"Grey level variance";"case_4";1.16573973636688
+365;"Distance zone 3D";"Grey level variance";"case_5";0.703850330116671
+365;"Distance zone 3D";"Grey level variance";"case_1";0.128355830859119
+365;"Distance zone 3D";"Grey level variance";"case_3";0.116757327390129
+366;"Distance zone 3D";"Zone distance variance";"case_2";0.0198481991373719
+366;"Distance zone 3D";"Zone distance variance";"case_4";0.0597109430315266
+366;"Distance zone 3D";"Zone distance variance";"case_5";0.0331926521579393
+366;"Distance zone 3D";"Zone distance variance";"case_1";0.0354879735010089
+366;"Distance zone 3D";"Zone distance variance";"case_3";0.0542201046859704
+367;"Distance zone 3D";"Zone distance entropy";"case_2";0.00628742349280045
+367;"Distance zone 3D";"Zone distance entropy";"case_4";0.0125921521685119
+367;"Distance zone 3D";"Zone distance entropy";"case_5";0.00703401177173606
+367;"Distance zone 3D";"Zone distance entropy";"case_1";0.015658607378903
+367;"Distance zone 3D";"Zone distance entropy";"case_3";0.0223564599904986
+368;"Neighbourhood grey tone difference 2D";"Coarseness";"case_2";0.000410374844543167
+368;"Neighbourhood grey tone difference 2D";"Coarseness";"case_4";0.000199000243537873
+368;"Neighbourhood grey tone difference 2D";"Coarseness";"case_5";0.000274620643481941
+368;"Neighbourhood grey tone difference 2D";"Coarseness";"case_1";0.000146294108913262
+368;"Neighbourhood grey tone difference 2D";"Coarseness";"case_3";0.000214207799988674
+369;"Neighbourhood grey tone difference 2D";"Contrast";"case_2";0.000814313892198236
+369;"Neighbourhood grey tone difference 2D";"Contrast";"case_4";0.00102628617038858
+369;"Neighbourhood grey tone difference 2D";"Contrast";"case_5";0.000729325489244977
+369;"Neighbourhood grey tone difference 2D";"Contrast";"case_1";0.000691692901394939
+369;"Neighbourhood grey tone difference 2D";"Contrast";"case_3";0.00230931362417603
+370;"Neighbourhood grey tone difference 2D";"Busyness";"case_2";0.00395371398640629
+370;"Neighbourhood grey tone difference 2D";"Busyness";"case_4";0.00465957770701597
+370;"Neighbourhood grey tone difference 2D";"Busyness";"case_5";0.00401084296376208
+370;"Neighbourhood grey tone difference 2D";"Busyness";"case_1";0.00233063205877168
+370;"Neighbourhood grey tone difference 2D";"Busyness";"case_3";0.000866409672168331
+371;"Neighbourhood grey tone difference 2D";"Complexity";"case_2";5.65458992657396
+371;"Neighbourhood grey tone difference 2D";"Complexity";"case_4";7.62715991535084
+371;"Neighbourhood grey tone difference 2D";"Complexity";"case_5";7.77305061302774
+371;"Neighbourhood grey tone difference 2D";"Complexity";"case_1";2.90775298325868
+371;"Neighbourhood grey tone difference 2D";"Complexity";"case_3";6.93283386886168
+372;"Neighbourhood grey tone difference 2D";"Strength";"case_2";0.219131938466927
+372;"Neighbourhood grey tone difference 2D";"Strength";"case_4";0.223358894252084
+372;"Neighbourhood grey tone difference 2D";"Strength";"case_5";0.141221320572571
+372;"Neighbourhood grey tone difference 2D";"Strength";"case_1";0.0268875771283595
+372;"Neighbourhood grey tone difference 2D";"Strength";"case_3";0.0348103780095419
+373;"Neighbourhood grey tone difference 3D";"Coarseness";"case_2";2.6471544676057e-06
+373;"Neighbourhood grey tone difference 3D";"Coarseness";"case_4";3.43987376116985e-06
+373;"Neighbourhood grey tone difference 3D";"Coarseness";"case_5";3.31733639583214e-06
+373;"Neighbourhood grey tone difference 3D";"Coarseness";"case_1";3.91988019165795e-07
+373;"Neighbourhood grey tone difference 3D";"Coarseness";"case_3";3.07416847878734e-06
+374;"Neighbourhood grey tone difference 3D";"Contrast";"case_2";0.000356441379618035
+374;"Neighbourhood grey tone difference 3D";"Contrast";"case_4";0.000179459867997114
+374;"Neighbourhood grey tone difference 3D";"Contrast";"case_5";0.000205191181702508
+374;"Neighbourhood grey tone difference 3D";"Contrast";"case_1";0.00064250035027862
+374;"Neighbourhood grey tone difference 3D";"Contrast";"case_3";0.000646834779486021
+375;"Neighbourhood grey tone difference 3D";"Busyness";"case_2";0.0686776144508114
+375;"Neighbourhood grey tone difference 3D";"Busyness";"case_4";0.114992301396114
+375;"Neighbourhood grey tone difference 3D";"Busyness";"case_5";0.099860816182575
+375;"Neighbourhood grey tone difference 3D";"Busyness";"case_1";0.0329863566233379
+375;"Neighbourhood grey tone difference 3D";"Busyness";"case_3";0.0114307867496347
+376;"Neighbourhood grey tone difference 3D";"Complexity";"case_2";4.12142720913288
+376;"Neighbourhood grey tone difference 3D";"Complexity";"case_4";2.92307341372594
+376;"Neighbourhood grey tone difference 3D";"Complexity";"case_5";2.44537709459409
+376;"Neighbourhood grey tone difference 3D";"Complexity";"case_1";15.642157524648
+376;"Neighbourhood grey tone difference 3D";"Complexity";"case_3";21.9297365087493
+377;"Neighbourhood grey tone difference 3D";"Strength";"case_2";0.00596364026008956
+377;"Neighbourhood grey tone difference 3D";"Strength";"case_4";0.00694645653649037
+377;"Neighbourhood grey tone difference 3D";"Strength";"case_5";0.00219722118536152
+377;"Neighbourhood grey tone difference 3D";"Strength";"case_1";0.000308072823783565
+377;"Neighbourhood grey tone difference 3D";"Strength";"case_3";0.00177558863937218
+378;"Neighbouring grey level dependence 2D";"Low dependence emphasis";"case_2";0.000926456495218675
+378;"Neighbouring grey level dependence 2D";"Low dependence emphasis";"case_4";0.000788456169656879
+378;"Neighbouring grey level dependence 2D";"Low dependence emphasis";"case_5";0.00152182627256617
+378;"Neighbouring grey level dependence 2D";"Low dependence emphasis";"case_1";0.00157511817157421
+378;"Neighbouring grey level dependence 2D";"Low dependence emphasis";"case_3";0.00229795022901531
+379;"Neighbouring grey level dependence 2D";"High dependence emphasis";"case_2";0.131496358788048
+379;"Neighbouring grey level dependence 2D";"High dependence emphasis";"case_4";0.166225169962578
+379;"Neighbouring grey level dependence 2D";"High dependence emphasis";"case_5";0.218505754211369
+379;"Neighbouring grey level dependence 2D";"High dependence emphasis";"case_1";0.228748094281131
+379;"Neighbouring grey level dependence 2D";"High dependence emphasis";"case_3";0.0908861978941385
+380;"Neighbouring grey level dependence 2D";"Low grey level count emphasis";"case_2";0.000367178595547328
+380;"Neighbouring grey level dependence 2D";"Low grey level count emphasis";"case_4";0.000547180209445133
+380;"Neighbouring grey level dependence 2D";"Low grey level count emphasis";"case_5";0.000527060756041991
+380;"Neighbouring grey level dependence 2D";"Low grey level count emphasis";"case_1";0.000162787440114542
+380;"Neighbouring grey level dependence 2D";"Low grey level count emphasis";"case_3";0.000238705976705226
+381;"Neighbouring grey level dependence 2D";"High grey level count emphasis";"case_2";9.52228846804979
+381;"Neighbouring grey level dependence 2D";"High grey level count emphasis";"case_4";12.3882717272767
+381;"Neighbouring grey level dependence 2D";"High grey level count emphasis";"case_5";6.76120655726139
+381;"Neighbouring grey level dependence 2D";"High grey level count emphasis";"case_1";1.10661952075604
+381;"Neighbouring grey level dependence 2D";"High grey level count emphasis";"case_3";1.12380401715744
+382;"Neighbouring grey level dependence 2D";"Low dependence low grey level emphasis";"case_2";0.000223820797908475
+382;"Neighbouring grey level dependence 2D";"Low dependence low grey level emphasis";"case_4";0.000321972278970346
+382;"Neighbouring grey level dependence 2D";"Low dependence low grey level emphasis";"case_5";0.00034222792259464
+382;"Neighbouring grey level dependence 2D";"Low dependence low grey level emphasis";"case_1";0.000117501739924251
+382;"Neighbouring grey level dependence 2D";"Low dependence low grey level emphasis";"case_3";0.000198538798264177
+383;"Neighbouring grey level dependence 2D";"Low dependence high grey level emphasis";"case_2";2.16745114318191
+383;"Neighbouring grey level dependence 2D";"Low dependence high grey level emphasis";"case_4";2.78371806350799
+383;"Neighbouring grey level dependence 2D";"Low dependence high grey level emphasis";"case_5";3.01850257299332
+383;"Neighbouring grey level dependence 2D";"Low dependence high grey level emphasis";"case_1";0.421832224644049
+383;"Neighbouring grey level dependence 2D";"Low dependence high grey level emphasis";"case_3";0.297110291790188
+384;"Neighbouring grey level dependence 2D";"High dependence low grey level emphasis";"case_2";0.00191378399798717
+384;"Neighbouring grey level dependence 2D";"High dependence low grey level emphasis";"case_4";0.00284292718887599
+384;"Neighbouring grey level dependence 2D";"High dependence low grey level emphasis";"case_5";0.00212904372254571
+384;"Neighbouring grey level dependence 2D";"High dependence low grey level emphasis";"case_1";0.000986813746903995
+384;"Neighbouring grey level dependence 2D";"High dependence low grey level emphasis";"case_3";0.000607974365385219
+385;"Neighbouring grey level dependence 2D";"High dependence high grey level emphasis";"case_2";123.928633448111
+385;"Neighbouring grey level dependence 2D";"High dependence high grey level emphasis";"case_4";176.805377288126
+385;"Neighbouring grey level dependence 2D";"High dependence high grey level emphasis";"case_5";17.8418483607373
+385;"Neighbouring grey level dependence 2D";"High dependence high grey level emphasis";"case_1";120.852639024147
+385;"Neighbouring grey level dependence 2D";"High dependence high grey level emphasis";"case_3";43.3621479308345
+386;"Neighbouring grey level dependence 2D";"Grey level non-uniformity";"case_2";1.67557883749878
+386;"Neighbouring grey level dependence 2D";"Grey level non-uniformity";"case_4";2.20347059481017
+386;"Neighbouring grey level dependence 2D";"Grey level non-uniformity";"case_5";2.95340450060297
+386;"Neighbouring grey level dependence 2D";"Grey level non-uniformity";"case_1";1.37752727962246
+386;"Neighbouring grey level dependence 2D";"Grey level non-uniformity";"case_3";0.102802849311196
+387;"Neighbouring grey level dependence 2D";"Grey level non-uniformity normalised";"case_2";0.000394057774351375
+387;"Neighbouring grey level dependence 2D";"Grey level non-uniformity normalised";"case_4";0.000682396330097698
+387;"Neighbouring grey level dependence 2D";"Grey level non-uniformity normalised";"case_5";0.00143504932283599
+387;"Neighbouring grey level dependence 2D";"Grey level non-uniformity normalised";"case_1";0.00142416553576303
+387;"Neighbouring grey level dependence 2D";"Grey level non-uniformity normalised";"case_3";0.00147728181444206
+388;"Neighbouring grey level dependence 2D";"Dependence count non-uniformity";"case_2";0.688982611372131
+388;"Neighbouring grey level dependence 2D";"Dependence count non-uniformity";"case_4";0.579802490774452
+388;"Neighbouring grey level dependence 2D";"Dependence count non-uniformity";"case_5";0.436551855795341
+388;"Neighbouring grey level dependence 2D";"Dependence count non-uniformity";"case_1";3.15683166193453
+388;"Neighbouring grey level dependence 2D";"Dependence count non-uniformity";"case_3";1.3413473737041
+389;"Neighbouring grey level dependence 2D";"Dependence count non-uniformity normalised";"case_2";0.000675915953099439
+389;"Neighbouring grey level dependence 2D";"Dependence count non-uniformity normalised";"case_4";0.000611606655929042
+389;"Neighbouring grey level dependence 2D";"Dependence count non-uniformity normalised";"case_5";0.0014351628075813
+389;"Neighbouring grey level dependence 2D";"Dependence count non-uniformity normalised";"case_1";0.000239694148425688
+389;"Neighbouring grey level dependence 2D";"Dependence count non-uniformity normalised";"case_3";0.000377759076527216
+390;"Neighbouring grey level dependence 2D";"Dependence count percentage";"case_2";0
+390;"Neighbouring grey level dependence 2D";"Dependence count percentage";"case_4";0
+390;"Neighbouring grey level dependence 2D";"Dependence count percentage";"case_5";0
+390;"Neighbouring grey level dependence 2D";"Dependence count percentage";"case_1";0
+390;"Neighbouring grey level dependence 2D";"Dependence count percentage";"case_3";0
+391;"Neighbouring grey level dependence 2D";"Grey level variance";"case_2";0.272954493091762
+391;"Neighbouring grey level dependence 2D";"Grey level variance";"case_4";0.329590867384705
+391;"Neighbouring grey level dependence 2D";"Grey level variance";"case_5";0.122945760384997
+391;"Neighbouring grey level dependence 2D";"Grey level variance";"case_1";0.364327038461449
+391;"Neighbouring grey level dependence 2D";"Grey level variance";"case_3";0.43645406050561
+392;"Neighbouring grey level dependence 2D";"Dependence count variance";"case_2";0.0446172259967048
+392;"Neighbouring grey level dependence 2D";"Dependence count variance";"case_4";0.0567398085313514
+392;"Neighbouring grey level dependence 2D";"Dependence count variance";"case_5";0.0601864237568921
+392;"Neighbouring grey level dependence 2D";"Dependence count variance";"case_1";0.0327211896150729
+392;"Neighbouring grey level dependence 2D";"Dependence count variance";"case_3";0.0126586727483331
+393;"Neighbouring grey level dependence 2D";"Dependence count entropy";"case_2";0.00571246315805998
+393;"Neighbouring grey level dependence 2D";"Dependence count entropy";"case_4";0.00310411988867245
+393;"Neighbouring grey level dependence 2D";"Dependence count entropy";"case_5";0.00228725412818709
+393;"Neighbouring grey level dependence 2D";"Dependence count entropy";"case_1";0.013029417400339
+393;"Neighbouring grey level dependence 2D";"Dependence count entropy";"case_3";0.0113098324784012
+394;"Neighbouring grey level dependence 2D";"Dependence count energy";"case_2";0.000125492429979844
+394;"Neighbouring grey level dependence 2D";"Dependence count energy";"case_4";7.81329218448982e-05
+394;"Neighbouring grey level dependence 2D";"Dependence count energy";"case_5";5.17949106179024e-05
+394;"Neighbouring grey level dependence 2D";"Dependence count energy";"case_1";0.000211545977451689
+394;"Neighbouring grey level dependence 2D";"Dependence count energy";"case_3";0.000212469474054366
+395;"Neighbouring grey level dependence 3D";"Low dependence emphasis";"case_2";0.00071280521235499
+395;"Neighbouring grey level dependence 3D";"Low dependence emphasis";"case_4";0.00048637354825051
+395;"Neighbouring grey level dependence 3D";"Low dependence emphasis";"case_5";0.000222596568732505
+395;"Neighbouring grey level dependence 3D";"Low dependence emphasis";"case_1";0.00114937564392267
+395;"Neighbouring grey level dependence 3D";"Low dependence emphasis";"case_3";0.0015240769973305
+396;"Neighbouring grey level dependence 3D";"High dependence emphasis";"case_2";1.0943641758398
+396;"Neighbouring grey level dependence 3D";"High dependence emphasis";"case_4";1.64285096729849
+396;"Neighbouring grey level dependence 3D";"High dependence emphasis";"case_5";1.98912550560033
+396;"Neighbouring grey level dependence 3D";"High dependence emphasis";"case_1";1.24307014760174
+396;"Neighbouring grey level dependence 3D";"High dependence emphasis";"case_3";0.858208951800072
+397;"Neighbouring grey level dependence 3D";"Low grey level count emphasis";"case_2";0.000365136916743047
+397;"Neighbouring grey level dependence 3D";"Low grey level count emphasis";"case_4";0.000433945632729755
+397;"Neighbouring grey level dependence 3D";"Low grey level count emphasis";"case_5";0.000385347048237526
+397;"Neighbouring grey level dependence 3D";"Low grey level count emphasis";"case_1";0.000245945707693464
+397;"Neighbouring grey level dependence 3D";"Low grey level count emphasis";"case_3";0.000265469949212653
+398;"Neighbouring grey level dependence 3D";"High grey level count emphasis";"case_2";9.89192584383056
+398;"Neighbouring grey level dependence 3D";"High grey level count emphasis";"case_4";12.9352735488694
+398;"Neighbouring grey level dependence 3D";"High grey level count emphasis";"case_5";6.27715080921802
+398;"Neighbouring grey level dependence 3D";"High grey level count emphasis";"case_1";1.0917123327176
+398;"Neighbouring grey level dependence 3D";"High grey level count emphasis";"case_3";1.23605017198055
+399;"Neighbouring grey level dependence 3D";"Low dependence low grey level emphasis";"case_2";0.000160007141427887
+399;"Neighbouring grey level dependence 3D";"Low dependence low grey level emphasis";"case_4";0.000153782360022339
+399;"Neighbouring grey level dependence 3D";"Low dependence low grey level emphasis";"case_5";0.00015399618208298
+399;"Neighbouring grey level dependence 3D";"Low dependence low grey level emphasis";"case_1";0.000105761591241238
+399;"Neighbouring grey level dependence 3D";"Low dependence low grey level emphasis";"case_3";0.000129118044764256
+400;"Neighbouring grey level dependence 3D";"Low dependence high grey level emphasis";"case_2";0.820087295241721
+400;"Neighbouring grey level dependence 3D";"Low dependence high grey level emphasis";"case_4";0.848436143331373
+400;"Neighbouring grey level dependence 3D";"Low dependence high grey level emphasis";"case_5";0.838893209525086
+400;"Neighbouring grey level dependence 3D";"Low dependence high grey level emphasis";"case_1";0.172430354167332
+400;"Neighbouring grey level dependence 3D";"Low dependence high grey level emphasis";"case_3";0.221445754111205
+401;"Neighbouring grey level dependence 3D";"High dependence low grey level emphasis";"case_2";0.00866435799988433
+401;"Neighbouring grey level dependence 3D";"High dependence low grey level emphasis";"case_4";0.0143192338508438
+401;"Neighbouring grey level dependence 3D";"High dependence low grey level emphasis";"case_5";0.0101021067013059
+401;"Neighbouring grey level dependence 3D";"High dependence low grey level emphasis";"case_1";0.00215296989878653
+401;"Neighbouring grey level dependence 3D";"High dependence low grey level emphasis";"case_3";0.000612275035910501
+402;"Neighbouring grey level dependence 3D";"High dependence high grey level emphasis";"case_2";673.178615687655
+402;"Neighbouring grey level dependence 3D";"High dependence high grey level emphasis";"case_4";1163.74491046407
+402;"Neighbouring grey level dependence 3D";"High dependence high grey level emphasis";"case_5";318.783834585925
+402;"Neighbouring grey level dependence 3D";"High dependence high grey level emphasis";"case_1";628.07574044897
+402;"Neighbouring grey level dependence 3D";"High dependence high grey level emphasis";"case_3";411.551195160333
+403;"Neighbouring grey level dependence 3D";"Grey level non-uniformity";"case_2";37.6906230111914
+403;"Neighbouring grey level dependence 3D";"Grey level non-uniformity";"case_4";99.7058304301829
+403;"Neighbouring grey level dependence 3D";"Grey level non-uniformity";"case_5";126.512012028466
+403;"Neighbouring grey level dependence 3D";"Grey level non-uniformity";"case_1";23.0834798214701
+403;"Neighbouring grey level dependence 3D";"Grey level non-uniformity";"case_3";22.075113058873
+404;"Neighbouring grey level dependence 3D";"Grey level non-uniformity normalised";"case_2";0.000421729070174222
+404;"Neighbouring grey level dependence 3D";"Grey level non-uniformity normalised";"case_4";0.000677061521416661
+404;"Neighbouring grey level dependence 3D";"Grey level non-uniformity normalised";"case_5";0.00146747663254957
+404;"Neighbouring grey level dependence 3D";"Grey level non-uniformity normalised";"case_1";0.00135000934400076
+404;"Neighbouring grey level dependence 3D";"Grey level non-uniformity normalised";"case_3";0.00148802237688598
+405;"Neighbouring grey level dependence 3D";"Dependence count non-uniformity";"case_2";7.62989412616388
+405;"Neighbouring grey level dependence 3D";"Dependence count non-uniformity";"case_4";16.3437386707763
+405;"Neighbouring grey level dependence 3D";"Dependence count non-uniformity";"case_5";5.02845657794242
+405;"Neighbouring grey level dependence 3D";"Dependence count non-uniformity";"case_1";41.5249802294841
+405;"Neighbouring grey level dependence 3D";"Dependence count non-uniformity";"case_3";31.2413363060526
+406;"Neighbouring grey level dependence 3D";"Dependence count non-uniformity normalised";"case_2";0.000161394949813619
+406;"Neighbouring grey level dependence 3D";"Dependence count non-uniformity normalised";"case_4";0.000154457787489415
+406;"Neighbouring grey level dependence 3D";"Dependence count non-uniformity normalised";"case_5";0.000662032409102271
+406;"Neighbouring grey level dependence 3D";"Dependence count non-uniformity normalised";"case_1";0.000219366260893829
+406;"Neighbouring grey level dependence 3D";"Dependence count non-uniformity normalised";"case_3";0.000183985557907781
+407;"Neighbouring grey level dependence 3D";"Dependence count percentage";"case_2";0
+407;"Neighbouring grey level dependence 3D";"Dependence count percentage";"case_4";0
+407;"Neighbouring grey level dependence 3D";"Dependence count percentage";"case_5";0
+407;"Neighbouring grey level dependence 3D";"Dependence count percentage";"case_1";0
+407;"Neighbouring grey level dependence 3D";"Dependence count percentage";"case_3";0
+408;"Neighbouring grey level dependence 3D";"Grey level variance";"case_2";0.0967279683696235
+408;"Neighbouring grey level dependence 3D";"Grey level variance";"case_4";0.145017124501615
+408;"Neighbouring grey level dependence 3D";"Grey level variance";"case_5";0.112963194617806
+408;"Neighbouring grey level dependence 3D";"Grey level variance";"case_1";0.470430541783953
+408;"Neighbouring grey level dependence 3D";"Grey level variance";"case_3";0.526953932565109
+409;"Neighbouring grey level dependence 3D";"Dependence count variance";"case_2";0.475654058994591
+409;"Neighbouring grey level dependence 3D";"Dependence count variance";"case_4";0.710293582419983
+409;"Neighbouring grey level dependence 3D";"Dependence count variance";"case_5";0.671993004714472
+409;"Neighbouring grey level dependence 3D";"Dependence count variance";"case_1";0.287152807527945
+409;"Neighbouring grey level dependence 3D";"Dependence count variance";"case_3";0.125321567002822
+410;"Neighbouring grey level dependence 3D";"Dependence count entropy";"case_2";0.00415150368686121
+410;"Neighbouring grey level dependence 3D";"Dependence count entropy";"case_4";0.00357059936039303
+410;"Neighbouring grey level dependence 3D";"Dependence count entropy";"case_5";0.00241127275134465
+410;"Neighbouring grey level dependence 3D";"Dependence count entropy";"case_1";0.00744362256097029
+410;"Neighbouring grey level dependence 3D";"Dependence count entropy";"case_3";0.0100448085085775
+411;"Neighbouring grey level dependence 3D";"Dependence count energy";"case_2";3.39380562604128e-05
+411;"Neighbouring grey level dependence 3D";"Dependence count energy";"case_4";2.46860918405017e-05
+411;"Neighbouring grey level dependence 3D";"Dependence count energy";"case_5";1.27990051249782e-05
+411;"Neighbouring grey level dependence 3D";"Dependence count energy";"case_1";5.16346882145431e-05
+411;"Neighbouring grey level dependence 3D";"Dependence count energy";"case_3";6.68466331720657e-05

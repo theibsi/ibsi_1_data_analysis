@@ -1,0 +1,26 @@
+team;team_full;institution;initial_entry;main_language;code_source
+brest_bcom;Brest (BCOM);INSERM Brest;1;C++;in-house
+brest_macha;Brest (MaCha);INSERM Brest;1;C++;in-house
+gemelli;Gemelli;Fondazione Policlinico Universitario Agostino Gemelli;1;R;in-house
+lumc;LUMC;Leiden University Medical Center;1;IDL;in-house
+mcgill;McGill;McGill University;1;MATLAB;open source
+mitk;MITK;German Cancer Research Center;1;C++;open source
+moffitt;Moffitt;Moffitt Cancer Center;1;C++;in-house
+nki;NKI;the Netherlands Cancer Institute;1;C++;in-house
+oncoray;OncoRay;OncoRay – National Center for Radiation Research in Oncology;1;Python;in-house
+tuebingen;Tuebingen;University of Tübingen;1;Python;in-house
+umcg_vandijk;UMCG (van Dijk);University Medical Center Groningen;1;MATLAB;in-house
+usz;USZ;University of Zurich;1;Python;in-house
+maastro;MAASTRO;Maastricht University Medical Centre+;2;MATLAB;in-house
+cardiff;Cardiff;Cardiff University;4;MATLAB;in-house
+umcg_beukinga;UMCG (Beukinga);University Medical Center Groningen;8;MATLAB;in-house
+pyradiomics;Pyradiomics;the Netherlands Cancer Institute;9;Python;open source
+ucsf;UCSF;University of California, San Francisco;10;Python;in-house
+cerr;CERR;Memorial Sloan Kettering Cancer Center;11;MATLAB;open source
+johnshopkins;JHU;Johns Hopkins University;12;MATLAB;in-house
+quantimage;QuantImage;University of Applied Sciences Western Switzerland;18;MATLAB;web-based
+qife;QIFE;Stanford University;20;MATLAB;open source
+umcg_pfaehler;RaCaT;University Medical Center Groningen;21;C++;open source
+captk;CaPTk;University of Pennsylvania;21;C++;open source
+lifex;LIFEx;Université Paris Saclay;21;Java;freeware
+kcl;KCL;King’s College London;22;MATLAB;in-house

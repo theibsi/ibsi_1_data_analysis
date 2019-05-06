@@ -11,7 +11,7 @@ source("reporting.R")
 source("tables.R", encoding="utf-8")
 
 # Get the naming table
-dt_name <- data.table::as.data.table(openxlsx::read.xlsx("naming_tables/20181002.xlsx"))
+dt_name <- data.table::as.data.table(openxlsx::read.xlsx("naming_tables/20190505.xlsx"))
 
 # Load raw data into a list
 # Get all files in data/rawR directory
@@ -26,7 +26,7 @@ data_list <- lapply(data_list, add_tolerance)
 dt <- data.table::rbindlist(data_list)
 
 # Read name table
-dt_name <-  data.table::as.data.table(openxlsx::read.xlsx("naming_tables/20181002.xlsx"))
+dt_name <-  data.table::as.data.table(openxlsx::read.xlsx("naming_tables/20190505.xlsx"))
 
 # Determine benchmark, but do not aggregate
 dt_bench <- get_benchmark(dt, aggregate=FALSE)
@@ -46,6 +46,8 @@ plot_figure_3(dt=dt, file_type=c("png", "svg"), font_family="Arial", font_size=9
 
 # Determine benchmark
 dt_bench <- get_benchmark(dt)
+
+save_benchmarks(dt=dt_bench, dt_name=dt_name)
 
 # Benchmark export
 create_benchmark_tables(dt=dt_bench, dt_name=dt_name)

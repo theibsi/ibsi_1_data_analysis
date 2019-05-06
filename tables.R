@@ -245,8 +245,10 @@ create_benchmark_tables <- function(dt, dt_name){
   current_ibm_name <- dt$image_biomarker[1]
   
   # Convert first character to lowercase
-  if(!grepl(pattern="^Moran|^Geary", x=current_ibm_name)){
+  if(!grepl(pattern="^Moran|^Geary|kurtosis", x=current_ibm_name)){
     current_ibm_name <- paste(tolower(substr(current_ibm_name, 1, 1)), substr(current_ibm_name, 2, nchar(current_ibm_name)), sep="")
+  } else if(grepl(pattern="kurtosis", x=current_ibm_name)){
+    current_ibm_name <- "(excess) kurtosis"
   }
 
   # Check for percent signs

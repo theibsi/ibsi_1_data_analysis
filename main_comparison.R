@@ -30,7 +30,7 @@ dt_data <- dt_data[!is.na(value)]
 saveRDS(dt_data, paste0("data/rawR/", date_str, ".RDS"))
 
 # Read the naming table
-dt_name <- data.table::as.data.table(openxlsx::read.xlsx("naming_tables/20181002.xlsx"))
+dt_name <- data.table::as.data.table(openxlsx::read.xlsx("naming_tables/20190505.xlsx"))
 
 # Iterate over the unique data_sets (configurations) and generate a list of data tables
 data_sets <- c("digital phantom", "configuration A", "configuration B", "configuration C", "configuration D", "configuration E")

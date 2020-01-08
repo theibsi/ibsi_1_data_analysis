@@ -1,5 +1,5 @@
 get_comparison_table <-function(dt, dt_name){
-  
+
   # Round values to 3 or 4 significant vakyes
   dt[,"value":=parse_significant(value, tag), by=tag]
 

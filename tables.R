@@ -1,3 +1,40 @@
+create_table_icc <- function(data, excl_features){
+
+  icc <- icc_low <- icc_up <-NULL
+  
+  # Read name table
+  name_table <- data.table::as.data.table(openxlsx::read.xlsx("naming_tables/20190505.xlsx"))
+  
+  data <- data.table::copy(data)
+  
+  # Parse to text
+  data[, ":="("icc_txt"=format(x=round(icc, 3), nsmall=3, trim=TRUE),
+              "icc_low_txt"=format(x=round(icc_low, 3), nsmall=3, trim=TRUE),
+              "icc_up_txt"=format(x=round(icc_up, 3), nsmall=3, trim=TRUE))]
+  
+  # Combine text
+  data[, ":="("txt"=paste0(icc_txt, " [", icc_low_txt, ", ", icc_up_txt, "]"))]
+  data[is.na(icc), "txt":="NA"]
+  
+  # Set modality as a factor
+  data$modality <- factor(data$modality, levels=c("CT", "PET", "MR_T1"),
+                          labels=c("CT", "PET", "MRI"))
+  
+  # Cast wide
+  data <- dcast(data=data, tag ~ modality, value.var="txt")
+  
+  # Add weak features
+  data <- rbind(data,
+                data.table::data.table("tag"=excl_features, "CT"="NS", "PET"="NS", "MRI"="NS"))
+  
+  # Add names
+  data <- merge(x=name_table[, c("order", "family", "image_biomarker", "tag")], y=data, by="tag", all.x=FALSE, all.y=TRUE)[order(order)]
+  
+  # Print to file
+  data.table::fwrite(data, file="./results/table_icc.csv", sep=";")
+}
+
+
 create_table_2_s1 <- function(dt){
   
   dt <- data.table::copy(dt)
@@ -67,7 +104,7 @@ create_table_2_s1 <- function(dt){
   dt_n <- dcast(dt_n, datum_id+data_set+n_total~match_cat, value.var=c("consent", "dissent"), fill=enc2utf8("0 (—)"))
   
   # Select only initial and final data points
-  dt_n <- dt_n[datum_id %in% c(1L, 10L, max(datum_id))]
+  dt_n <- dt_n[datum_id %in% c(1L, 10L, 25L)]
   
   # Drop dissent columns for ge_moderate and ge_strong
   dt_n[, ":="("dissent_ge_moderate"=NULL, "dissent_ge_strong"=NULL, "consent_all"=NULL)]
@@ -80,7 +117,7 @@ create_table_2_s1 <- function(dt){
   fwrite(dt_n, file="./results/table_2.csv", sep=";")
   
   # Export weak or dissenting image biomarkers at the final step
-  dt_excl <- dt[datum_id==max(datum_id) & data_set!="phase II" & (match_cat=="weak" | not_exceeds_dissent==TRUE)]
+  dt_excl <- dt[datum_id==25L & data_set!="phase II" & (match_cat=="weak" | not_exceeds_dissent==TRUE)]
   fwrite(dt_excl, file="./results/table_S1.csv", sep=";")
   
 }
@@ -92,7 +129,7 @@ create_table_s2_s3 <- function(dt){
   dt <- data.table::copy(dt)
   
   # Select only most recent time point
-  dt <- dt[datum==max(datum) & match==TRUE]
+  dt <- dt[datum==20190301 & match==TRUE]
   
   # Remove diagnostic features
   excl_tags <- get_diagnostic_feature_tags()
@@ -153,11 +190,11 @@ create_table_s4 <- function(dt, dt_name){
   dt <- unique(dt)
   
   # Keep only first and final date
-  dt <- dt[datum==earliest_date | datum==max(datum)]
+  dt <- dt[datum==earliest_date | datum==20190301]
   
   # Simplify datum
   dt[datum==earliest_date, "status":="initial"]
-  dt[datum==max(datum), "status":="final"]
+  dt[datum==20190301, "status":="final"]
   dt$status <- factor(dt$status, levels=c("initial", "final"))
   
   # Drop datum, earliest date
@@ -237,9 +274,6 @@ create_benchmark_tables <- function(dt, dt_name){
     has_subset <- FALSE
   }
   
-  # Reorder
-  dt <- dt[order(data_set, subset)]
-  
   # Get current image biomarker
   current_ibm <- dt$ibm[1]
   current_ibm_name <- dt$image_biomarker[1]
@@ -259,7 +293,10 @@ create_benchmark_tables <- function(dt, dt_name){
   # Rename levels in data_set to abbreviations
   dt$data_set <- factor(dt$data_set, levels=c("digital phantom", "configuration A", "configuration B", "configuration C", "configuration D", "configuration E"),
                         labels=c("dig. phantom", "config. A", "config. B", "config. C", "config. D", "config. E"))
-  
+
+  # Reorder
+  dt <- dt[order(data_set, subset)]
+    
   # Update weak consensus
   dt[match_cat=="weak" | n_matches <= 0.5 * n_total, ":="("mode"=NA_real_, "tolerance"=NA_real_)]
   
@@ -272,13 +309,13 @@ create_benchmark_tables <- function(dt, dt_name){
             "configuration.B"=NULL, "configuration.C"=NULL, "configuration.D"=NULL, "configuration.E"=NULL)]
 
   # Define the caption
-  caption_text <- paste0("Benchmark table for the \\textit{", current_ibm_name, "} feature.")
+  caption_text <- paste0("Reference values for the \\textit{", current_ibm_name, "} feature.")
   
   # Extend caption for 
   if(sum(is.na(dt$mode))==1){
-    caption_text <- paste0(caption_text, " An unset value (\\textemdash) indicates the lack of a reliable benchmark value.")
+    caption_text <- paste0(caption_text, " An unset value (\\textemdash) indicates the lack of a reference value.")
   } else if(sum(is.na(dt$mode)) > 1){
-    caption_text <- paste0(caption_text, " Unset values (\\textemdash) indicate the lack of reliable benchmark values.")
+    caption_text <- paste0(caption_text, " Unset values (\\textemdash) indicate the lack of reference values.")
   }
   
   
@@ -302,7 +339,7 @@ create_benchmark_tables <- function(dt, dt_name){
     
     # File header for spacing and setting font size
     writeLines("\\vspace{2mm}", con=con)
-    writeLines("\\small{", con=con)
+    writeLines("\\small", con=con)
     
     # Note that the longtable environment is used, as these tend to be long tables.
     writeLines(xtable::print.xtable(x=x, floating=FALSE, tabular.environment="longtable", booktabs=TRUE,
@@ -310,7 +347,7 @@ create_benchmark_tables <- function(dt, dt_name){
                                     NA.string="\\textemdash", sanitize.colnames.function=bold, print.results=FALSE),
                con=con)
     
-    writeLines("}", con=con)
+    writeLines("\\normalsize", con=con)
     writeLines("\\FloatBarrier", con=con)
 
   } else {
